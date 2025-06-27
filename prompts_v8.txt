@@ -1,0 +1,560 @@
+NOTAS: AGREGAR EJEMPLOS EN TERCERA PERSONA 
+-- Personas que escriben sobre familiares con depresión (en tercera persona) fueron mal clasificados como si ellos mismos sufrieran depresión.
+-- Algunos textos eran demasiado largos para el modelo, lo que afectó la precisión.
+
+
+Creación indicadores:
+ necesito que generes textos que simulen ser mensajes y publicaciones de personas en redes sociales, tienen que representar lo solicitado de múltiples formas pero quiero que los textos sean simples y directos, no quiero textos que resulten ambiguos
+
+Adicional:
+necesito que los textos que generes consideren un vocabulario amplio
+simular mensajes de telegram y whatsapp
+que no se repitan por favor
+
+
+
+Generame 100 textos de menos de 5 palabras de personas con
+Generame 100 textos de menos de 5 palabras de personas con
+Generame 100 textos de menos de 10 palabras de personas con
+Generame 100 textos de menos de 15 palabras de personas con
+Generame 100 textos de más de 15 y menos de 25 palabras de personas
+
+Generame 100 textos de menos de 5 palabras que no estén relacionados con
+Generame 100 textos de menos de 10 palabras que no estén relacionados con
+Generame 100 textos de menos de 15 palabras que no estén relacionados con
+Generame 100 textos de más de 15 y menos de 25 palabras que no estén relacionados con
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas con
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas con
+
+
+I1
+Poco interés o placer en hacer las cosas
+	Generame 100 textos de menos de 5 palabras de personas con poco interés o poco placer en hacer las cosas
+	Generame 100 textos de menos de 5 palabras de personas con poco interés o poco placer en hacer las cosas
+	Generame 100 textos de menos de 10 palabras de personas con poco interés o poco placer en hacer las cosas
+	Generame 100 textos de menos de 15 palabras de personas con poco interés o poco placer en hacer las cosas
+
+Generame 100 textos de menos de 5 palabras de personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de menos de 5 palabras de personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de menos de 10 palabras de personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de menos de 15 palabras de personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de más de 15 palabras de personas sin interés o sin placer en hacer las cosas
+
+Generame 100 textos de menos de 5 palabras de personas que expresen un desinterés inmenso en realizar actividades o que expresen una carencia enorme de placer en hacer las cosas
+Generame 100 textos de menos de 5 palabras de personas que expresen un desinterés inmenso en realizar actividades o que expresen una carencia enorme de placer en hacer las cosas
+Generame 100 textos de menos de 10 palabras de personas que expresen un desinterés inmenso en realizar actividades o que expresen una carencia enorme de placer en hacer las cosas
+Generame 100 textos de menos de 15 palabras de personas que expresen un desinterés inmenso en realizar actividades o que expresen una carencia enorme de placer en hacer las cosas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que expresen un desinterés inmenso en realizar actividades o que expresen una carencia enorme de placer en hacer las cosas
+Generame 100 textos de más de 15 palabras de personas que expresen un desinterés inmenso en realizar actividades o que expresen una carencia enorme de placer en hacer las cosas
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que hablen de otras personas sin interés o sin placer en hacer las cosas
+Generame 100 textos de más de 15 palabras de personas que hablen de otras personas sin interés o sin placer en hacer las cosas
+
+mucho interés y placer en hacer cosas
+	Generame 100 textos de menos de 5 palabras de personas con algo de interés y algo de placer en hacer cosas
+	Generame 100 textos de menos de 5 palabras de personas con algo de interés y algo de placer en hacer cosas
+	Generame 100 textos de menos de 10 palabras de personas con algo de interés y algo de placer en hacer cosas
+	Generame 100 textos de menos de 15 palabras de personas con algo de interés y algo de placer en hacer cosas
+
+Generame 100 textos de menos de 5 palabras de personas con interés y placer en hacer cosas
+Generame 100 textos de menos de 5 palabras de personas con interés y placer en hacer cosas
+Generame 100 textos de menos de 10 palabras de personas con interés y placer en hacer cosas
+Generame 100 textos de menos de 15 palabras de personas con interés y placer en hacer cosas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con interés y placer en hacer cosas
+Generame 100 textos de más de 15 palabras de personas con interés y placer en hacer cosas
+
+Generame 100 textos de menos de 5 palabras de personas con mucho interés y mucho placer en hacer cosas
+Generame 100 textos de menos de 5 palabras de personas con mucho interés y mucho placer en hacer cosas
+Generame 100 textos de menos de 10 palabras de personas con mucho interés y mucho placer en hacer cosas
+Generame 100 textos de menos de 15 palabras de personas con mucho interés y mucho placer en hacer cosas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con mucho interés y mucho placer en hacer cosas
+Generame 100 textos de más de 15 palabras de personas con mucho interés y mucho placer en hacer cosas
+
+tener poco interes o mucho interes en hacer cosas
+Generame 100 textos de menos de 5 palabras que no estén relacionados con tener poco interés o mucho interés en hacer cosas
+Generame 100 textos de menos de 5 palabras que no estén relacionados con tener poco interés o mucho interés en hacer cosas
+Generame 100 textos de menos de 10 palabras que no estén relacionados con tener poco interés o mucho interés en hacer cosas
+Generame 100 textos de menos de 15 palabras que no estén relacionados con tener poco interés o mucho interés en hacer cosas
+Generame 100 textos de más de 15 y menos de 25 palabras que no estén relacionados con tener poco interés o mucho interés en hacer cosas
+Generame 100 textos de más de 15 palabras que no estén relacionados con tener poco interés o mucho interés en hacer cosas
+
+I2 - Se ha sentido decaído(a), deprimido(a) o sin esperanzas
+decaidas, tristes o sin esperanzas
+	Generame 100 textos de menos de 5 palabras de personas poco decaídas, poco tristes o muy pocas esperanzas
+	Generame 100 textos de menos de 5 palabras de personas poco decaídas, poco tristes o muy pocas esperanzas
+	Generame 100 textos de menos de 10 palabras de personas poco decaídas, poco tristes o muy pocas esperanzas
+	Generame 100 textos de menos de 15 palabras de personas poco decaídas, poco tristes o muy pocas esperanzas
+
+Generame 100 textos de menos de 5 palabras de personas decaídas o tristes
+Generame 100 textos de menos de 5 palabras de personas decaídas o tristes
+Generame 100 textos de menos de 10 palabras de personas decaídas o tristes
+Generame 100 textos de menos de 15 palabras de personas decaídas o tristes
+Generame 100 textos de más de 15 y menos de 25 palabras de personas decaídas o tristes
+Generame 100 textos de más de 15 palabras de personas decaídas o tristes
+
+Generame 100 textos de menos de 5 palabras de personas muy decaídas, muy tristes o sin esperanzas
+Generame 100 textos de menos de 5 palabras de personas muy decaídas, muy tristes o sin esperanzas
+Generame 100 textos de menos de 10 palabras de personas muy decaídas, muy tristes o sin esperanzas
+Generame 100 textos de menos de 15 palabras de personas muy decaídas, muy tristes o sin esperanzas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas muy decaídas, muy tristes o sin esperanzas
+Generame 100 textos de más de 15 palabras de personas muy decaídas, muy tristes o sin esperanzas
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas decaídas o tristes
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas decaídas o tristes
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas decaídas o tristes
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas decaídas o tristes
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que hablen de otras personas decaídas o tristes
+Generame 100 textos de más de 15 palabras de personas que hablen de otras personas decaídas o tristes
+
+animadas, felices o con muchas esperanzas
+
+	Generame 100 textos de menos de 5 palabras de personas algo animadas o algo felices 
+	Generame 100 textos de menos de 5 palabras de personas algo animadas o algo felices 
+	Generame 100 textos de menos de 10 palabras de personas algo animadas o algo felices 
+	Generame 100 textos de menos de 15 palabras de personas algo animadas o algo felices  
+
+Generame 100 textos de menos de 5 palabras de personas animadas, felices o con esperanzas
+Generame 100 textos de menos de 5 palabras de personas animadas, felices o con esperanzas
+Generame 100 textos de menos de 10 palabras de personas animadas, felices o con esperanzas
+Generame 100 textos de menos de 15 palabras de personas animadas, felices o con esperanzas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas animadas, felices o con esperanzas
+Generame 100 textos de más de 15 palabras de personas animadas, felices o con esperanzas
+
+Generame 100 textos de menos de 5 palabras de personas muy animadas, muy felices o con muchas esperanzas
+Generame 100 textos de menos de 5 palabras de personas muy animadas, muy felices o con muchas esperanzas
+Generame 100 textos de menos de 10 palabras de personas muy animadas, muy felices o con muchas esperanzas
+Generame 100 textos de menos de 15 palabras de personas muy animadas, muy felices o con muchas esperanzas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas muy animadas, muy felices o con muchas esperanzas
+Generame 100 textos de más de 15 palabras de personas muy animadas, muy felices o con muchas esperanzas
+
+tristeza, felicidad, con esperanza o sin esperanza
+Generame 100 textos de menos de 5 palabras que no estén relacionados con tristeza, felicidad, con esperanza o sin esperanza
+Generame 100 textos de menos de 5 palabras que no estén relacionados con tristeza, felicidad, con esperanza o sin esperanza
+Generame 100 textos de menos de 10 palabras que no estén relacionados con tristeza, felicidad, con esperanza o sin esperanza
+Generame 100 textos de menos de 15 palabras que no estén relacionados con tristeza, felicidad, con esperanza o sin esperanza
+Generame 100 textos de más de 15 y menos de 25 palabras que no estén relacionados con tristeza, felicidad, con esperanza o sin esperanza
+Generame 100 textos de más de 15 palabras que no estén relacionados con tristeza, felicidad, con esperanza o sin esperanza
+
+I3 -dificultad para quedarse o permanecer dormido(a), o ha dormido demasiado 
+dificultad para quedarse o permanecer dormido o con insomnio
+	Generame 100 textos de menos de 5 palabras de personas con algo de dificultad para quedarse dormido o algo de dificultad para permanecer dormido
+	Generame 100 textos de menos de 5 palabras de personas con algo de dificultad para quedarse dormido o algo de dificultad para permanecer dormido
+	Generame 100 textos de menos de 10 palabras de personas con algo de dificultad para quedarse dormido o algo de dificultad para permanecer dormido
+	Generame 100 textos de menos de 15 palabras de personas con algo de dificultad para quedarse dormido o algo de dificultad para permanecer dormido
+
+Generame 100 textos de menos de 5 palabras de personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de menos de 5 palabras de personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de menos de 10 palabras de personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de menos de 15 palabras de personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de más de 15 palabras de personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+
+Generame 100 textos de menos de 5 palabras de personas con mucha dificultad para quedarse dormido, mucha dificultad para permanecer dormido o con mucho con insomnio
+Generame 100 textos de menos de 5 palabras de personas con mucha dificultad para quedarse dormido, mucha dificultad para permanecer dormido o con mucho con insomnio
+Generame 100 textos de menos de 10 palabras de personas con mucha dificultad para quedarse dormido, mucha dificultad para permanecer dormido o con mucho con insomnio
+Generame 100 textos de menos de 15 palabras de personas con mucha dificultad para quedarse dormido, mucha dificultad para permanecer dormido o con mucho con insomnio
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con mucha dificultad para quedarse dormido, mucha dificultad para permanecer dormido o con mucho con insomnio
+Generame 100 textos de más de 15 palabras de personas con mucha dificultad para quedarse dormido, mucha dificultad para permanecer dormido o con mucho con insomnio
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que hablen de otras personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de más de 15 palabras de personas que hablen de otras personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+
+facilidad para quedarse o permanecer dormido
+	Generame 100 textos de menos de 5 palabras de personas con algo de facilidad para quedarse dormido o algo de facilidad para permanecer dormido
+	Generame 100 textos de menos de 5 palabras de personas con algo de facilidad para quedarse dormido o algo de facilidad para permanecer dormido
+	Generame 100 textos de menos de 10 palabras de personas con algo de facilidad para quedarse dormido o algo de facilidad para permanecer dormido
+	Generame 100 textos de menos de 15 palabras de personas con algo de facilidad para quedarse dormido o algo de facilidad para permanecer dormido
+
+Generame 100 textos de menos de 5 palabras de personas con facilidad para quedarse dormido, facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de menos de 5 palabras de personas con facilidad para quedarse dormido, facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de menos de 10 palabras de personas con facilidad para quedarse dormido, facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de menos de 15 palabras de personas con facilidad para quedarse dormido, facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con facilidad para quedarse dormido, facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de más de 15 palabras de personas con facilidad para quedarse dormido, facilidad para permanecer dormido o sin insomnio
+
+Generame 100 textos de menos de 5 palabras de personas con mucha facilidad para quedarse dormido, mucha facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de menos de 5 palabras de personas con mucha facilidad para quedarse dormido, mucha facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de menos de 10 palabras de personas con mucha facilidad para quedarse dormido, mucha facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de menos de 15 palabras de personas con mucha facilidad para quedarse dormido, mucha facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con mucha facilidad para quedarse dormido, mucha facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de más de 15 palabras de personas con mucha facilidad para quedarse dormido, mucha facilidad para permanecer dormido o sin insomnio
+
+
+
+insomnio o sueño
+Generame 100 textos de menos de 5 palabras que no estén relacionados con  insomnio o sueño
+Generame 100 textos de menos de 5 palabras que no estén relacionados con  insomnio o sueño
+Generame 100 textos de menos de 10 palabras que no estén relacionados con  insomnio o sueño
+Generame 100 textos de menos de 15 palabras que no estén relacionados con  insomnio o sueño
+Generame 100 textos de más de 15 y menos de 25 palabras que no estén relacionados con  insomnio o sueño
+Generame 100 textos de más de 15 palabras que no estén relacionados con  insomnio o sueño
+
+
+I4-cansado(a) o con poca energía
+cansancio o poca energía
+	Generame 100 textos de menos de 5 palabras de personas con poco cansancio, poco agotamiento
+	Generame 100 textos de menos de 5 palabras de personas con poco cansancio, poco agotamiento
+	Generame 100 textos de menos de 10 palabras de personas con poco cansancio, poco agotamiento 
+	Generame 100 textos de menos de 15 palabras de personas con poco cansancio, poco agotamiento 
+ 
+Generame 100 textos de menos de 5 palabras de personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de menos de 5 palabras de personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de menos de 10 palabras de personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de menos de 15 palabras de personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de más de 15 palabras de personas con cansancio, con agotamiento, sin energía
+
+Generame 100 textos de menos de 5 palabras de personas con agotamiento profundo, con la la sensación de estar drenado, sin fuerzas y con dificultades para seguir adelante.
+Generame 100 textos de menos de 5 palabras de personas con agotamiento profundo, con la sensación de estar drenado, sin fuerzas y con dificultades para seguir adelante.
+Generame 100 textos de menos de 10 palabras de personas con agotamiento profundo, con la sensación de estar drenado, sin fuerzas y con dificultades para seguir adelante.
+Generame 100 textos de menos de 15 palabras de personas con agotamiento profundo, con la sensación de estar drenado, sin fuerzas y con dificultades para seguir adelante.
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con agotamiento profundo, con la sensación de estar drenado, sin fuerzas y con dificultades para seguir adelante.
+Generame 100 textos de más de 15 palabras de personas con agotamiento profundo, con la sensación de estar drenado, sin fuerzas y con dificultades para seguir adelante.
+
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que hablen de otras personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de más de 15 palabras de personas que hablen de otras personas con cansancio, con agotamiento, sin energía
+
+
+mucha energía y sin cansancio
+	Generame 100 textos de menos de 5 palabras de personas con poca energía y casi sin cansancio
+	Generame 100 textos de menos de 5 palabras de personas con poca energía y casi sin cansancio
+	Generame 100 textos de menos de 10 palabras de personas con poca energía y casi sin cansancio
+	Generame 100 textos de menos de 15 palabras de personas con poca energía y casi sin cansancio
+
+Generame 100 textos de menos de 5 palabras de personas con energía y sin cansancio
+Generame 100 textos de menos de 5 palabras de personas con energía y sin cansancio
+Generame 100 textos de menos de 10 palabras de personas con energía y sin cansancio
+Generame 100 textos de menos de 15 palabras de personas con energía y sin cansancio
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con energía y sin cansancio
+Generame 100 textos de más de 15 palabras de personas con energía y sin cansancio
+
+Generame 100 textos de menos de 5 palabras de personas con mucha energía y con muchas fuerzas
+Generame 100 textos de menos de 5 palabras de personas con mucha energía y con muchas fuerzas
+Generame 100 textos de menos de 10 palabras de personas con mucha energía y con muchas fuerzas
+Generame 100 textos de menos de 15 palabras de personas con mucha energía y con muchas fuerzas
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con mucha energía y con muchas fuerzas
+Generame 100 textos de más de 15 palabras de personas con mucha energía y con muchas fuerzas
+
+estar cansado o con energía
+Generame 100 textos de menos de 5 palabras que no esten relacionados con estar cansado o con energía
+Generame 100 textos de menos de 5 palabras que no esten relacionados con estar cansado o con energía
+Generame 100 textos de menos de 10 palabras que no esten relacionados con estar cansado o con energía
+Generame 100 textos de menos de 15 palabras que no esten relacionados con estar cansado o con energía
+Generame 100 textos de más de 15 y menos de 25 palabras que no esten relacionados con estar cansado o con energía
+Generame 100 textos de más de 15 palabras que no esten relacionados con estar cansado o con energía
+
+
+
+I5
+	Generame 100 textos de menos de 5 palabras de personas con poco apetito, poca hambre, o poco deseo de comer
+	Generame 100 textos de menos de 5 palabras de personas con poco apetito, poca hambre, o poco deseo de comer
+	Generame 100 textos de menos de 10 palabras de personas con poco apetito, poca hambre, o poco deseo de comer
+	Generame 100 textos de menos de 15 palabras de personas con poco apetito, poca hambre, o poco deseo de comer
+
+Generame 100 textos de menos de 5 palabras de persona  sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de menos de 5 palabras de personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de menos de 10 palabras de personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de menos de 15 palabras de personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de más de 15 y menos de 25 palabras de personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de más de 15 palabras de personas sin apetito, sin hambre, o sin deseos de comer
+
+Generame 100 textos de menos de 5 palabras de personas con una profunda desconexión emocional y física con la comida, reflejando un repudio a la comida o rechazo total a la idea de comer
+Generame 100 textos de menos de 5 palabras de personas con una profunda desconexión emocional y física con la comida, reflejando un repudio a la comida o rechazo total a la idea de comer
+Generame 100 textos de menos de 10 palabras de personas con una profunda desconexión emocional y física con la comida, reflejando un repudio a la comida o rechazo total a la idea de comer
+Generame 100 textos de menos de 15 palabras de personas con una profunda desconexión emocional y física con la comida, reflejando un repudio a la comida o rechazo total a la idea de comer
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con una profunda desconexión emocional y física con la comida, reflejando un repudio a la comida o rechazo total a la idea de comer
+Generame 100 textos de más de 15 palabras de personas con una profunda desconexión emocional y física con la comida, reflejando un repudio a la comida o rechazo total a la idea de comer
+
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que hablen de otras personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de más de 15 palabras de personas que hablen de otras personas sin apetito, sin hambre, o sin deseos de comer
+
+mucho apetito, hambre o mucha hambre
+	Generame 100 textos de menos de 5 palabras de personas con apetito o hambre
+	Generame 100 textos de menos de 5 palabras de personas con apetito o hambre
+	Generame 100 textos de menos de 10 palabras de personas con apetito o hambre
+	Generame 100 textos de menos de 15 palabras de personas con apetito o hambre
+
+Generame 100 textos de menos de 5 palabras de personas con mucho apetito o mucha hambre
+Generame 100 textos de menos de 5 palabras de personas con mucho apetito o mucha hambre
+Generame 100 textos de menos de 10 palabras de personas con mucho apetito o mucha hambre
+Generame 100 textos de menos de 15 palabras de personas con mucho apetito o mucha hambre
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con mucho apetito o mucha hambre
+Generame 100 textos de más de 15 palabras de personas con mucho apetito o mucha hambre
+
+Generame 100 textos de menos de 5 palabras de personas con demasiado apetito o demasiada hambre, que coman en exceso o vivan para comer 
+Generame 100 textos de menos de 5 palabras de personas con demasiado apetito o demasiada hambre, que coman en exceso o vivan para comer 
+Generame 100 textos de menos de 10 palabras de personas con demasiado apetito o demasiada hambre, que coman en exceso o vivan para comer 
+Generame 100 textos de menos de 15 palabras de personas con demasiado apetito o demasiada hambre, que coman en exceso o vivan para comer 
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con demasiado apetito o demasiada hambre, que coman en exceso o vivan para comer 
+Generame 100 textos de más de 15 palabras de personas con demasiado apetito o demasiada hambre, que coman en exceso o vivan para comer 
+
+apetito o hambre
+Generame 100 textos de menos de 5 palabras que no esten relacionados con  temas de apetito o hambre
+Generame 100 textos de menos de 5 palabras que no esten relacionados con  temas de apetito o hambre 
+Generame 100 textos de menos de 10 palabras que no esten relacionados con  temas de apetito o hambre 
+Generame 100 textos de menos de 15 palabras que no esten relacionados con  temas de apetito o hambre 
+Generame 100 textos de más de 15 y menos de 25 palabras que no esten relacionados con  temas de apetito o hambre
+Generame 100 textos de más de 15 palabras que no esten relacionados con  temas de apetito o hambre  
+
+
+
+I6 
+con un profundo sentimiento de desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+
+	Generame 100 textos de menos de 5 palabras de personas con poca desesperanza, poca autodesvalorización y algo de frustración ante los fracasos personales y familiares
+	Generame 100 textos de menos de 5 palabras de personas con poca desesperanza, poca autodesvalorización y algo de frustración ante los fracasos personales y familiares
+	Generame 100 textos de menos de 10 palabras de personas con poca desesperanza, poca autodesvalorización y algo de frustración ante los fracasos personales y familiares
+	Generame 100 textos de menos de 15 palabras de personas con poca desesperanza, poca autodesvalorización y algo de frustración ante los fracasos personales y familiares
+
+
+Generame 100 textos de menos de 5 palabras de personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 5 palabras de personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 10 palabras de personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 15 palabras de personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de más de 15 palabras de personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+
+Generame 100 textos de menos de 5 palabras de personas con un profundo sentimiento de desesperanza, autodesvalorización y fuerte frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 5 palabras de personas con un profundo sentimiento de desesperanza, autodesvalorización y fuerte frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 10 palabras de personas con un profundo sentimiento de desesperanza, autodesvalorización y fuerte frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 15 palabras de personas con un profundo sentimiento de desesperanza, autodesvalorización y fuerte frustración ante los fracasos personales y familiares
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con un profundo sentimiento de desesperanza, autodesvalorización y fuerte frustración ante los fracasos personales y familiares
+Generame 100 textos de más de 15 palabras de personas con un profundo sentimiento de desesperanza, autodesvalorización y fuerte frustración ante los fracasos personales y familiares
+
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que hablen de otras personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de más de 15 palabras de personas que hablen de otras personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+
+
+sentimientos de logro o sensación de triunfo a nivel personal o familiar
+
+	Generame 100 textos de menos de 5 palabras de personas con sentimientos de pequeños logros o sensación de pequeños triunfos a nivel personal o familar
+	Generame 100 textos de menos de 5 palabras de personas con sentimientos de pequeños logros o sensación de pequeños triunfos a nivel personal o familar
+	Generame 100 textos de menos de 10 palabras de personas con sentimientos de pequeños logros o sensación de pequeños triunfos a nivel personal o familar
+	Generame 100 textos de menos de 15 palabras de personas con sentimientos de pequeños logros o sensación de pequeños triunfos a nivel personal o familar
+
+Generame 100 textos de menos de 5 palabras de personas con sentimientos de logro o sensación de triunfo a nivel personal o familar
+Generame 100 textos de menos de 5 palabras de personas con sentimientos de logro o sensación de triunfo a nivel personal o familar
+Generame 100 textos de menos de 10 palabras de personas con sentimientos de logro o sensación de triunfo a nivel personal o familar
+Generame 100 textos de menos de 15 palabras de personas con sentimientos de logro o sensación de triunfo a nivel personal o familar
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con sentimientos de logro o sensación de triunfo a nivel personal o familar
+Generame 100 textos de más de 15 palabras de personas con sentimientos de logro o sensación de triunfo a nivel personal o familar
+
+Generame 100 textos de menos de 5 palabras de personas con sentimientos de gran logro o una gran sensación de triunfo a nivel personal o familar
+Generame 100 textos de menos de 5 palabras de personas con sentimientos de gran logro o una gran sensación de triunfo a nivel personal o familar
+Generame 100 textos de menos de 10 palabras de personas con sentimientos de gran logro o una gran sensación de triunfo a nivel personal o familar
+Generame 100 textos de menos de 15 palabras de personas con sentimientos de gran logro o una gran sensación de triunfo a nivel personal o familar
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con sentimientos de gran logro o una gran sensación de triunfo a nivel personal o familar
+Generame 100 textos de más de 15 palabras de personas con sentimientos de gran logro o una gran sensación de triunfo a nivel personal o familar
+
+triunfo o fracaso a nivel personal o familiar
+
+Generame 100 textos de menos de 5 palabras que no estén relacionados con triunfo o fracaso a nivel personal o familiar
+Generame 100 textos de menos de 5 palabras que no estén relacionados con triunfo o fracaso a nivel personal o familiar
+Generame 100 textos de menos de 10 palabras que no estén relacionados con triunfo o fracaso a nivel personal o familiar
+Generame 100 textos de menos de 15 palabras que no estén relacionados con triunfo o fracaso a nivel personal o familiar
+Generame 100 textos de más de 15 y menos de 25 palabras que no estén relacionados con triunfo o fracaso a nivel personal o familiar
+Generame 100 textos de más de 15 palabras que no estén relacionados con triunfo o fracaso a nivel personal o familiar
+
+
+I7
+una lucha interna contra la falta de concentración, la dispersión mental y la incapacidad para mantenerse enfocado
+
+	Generame 100 textos de menos de 5 palabras de personas con poca concentración, poca dispersión mental y poca incapacidad para mantenerse enfocado
+	Generame 100 textos de menos de 5 palabras de personas con poca concentración, poca dispersión mental y poca incapacidad para mantenerse enfocado
+	Generame 100 textos de menos de 10 palabras de personas con poca concentración, poca dispersión mental y poca incapacidad para mantenerse enfocado
+	Generame 100 textos de menos de 15 palabras de personas con poca concentración, poca dispersión mental y poca incapacidad para mantenerse enfocado
+
+Generame 100 textos de menos de 5 palabras de personas sin concentración, con dispersión mental 
+Generame 100 textos de menos de 5 palabras de personas sin concentración, con dispersión mental 
+Generame 100 textos de menos de 10 palabras de personas sin concentración, con dispersión mental
+Generame 100 textos de menos de 15 palabras de personas sin concentración, con dispersión mental 
+Generame 100 textos de más de 15 y menos de 25 palabras de personas sin concentración, con dispersión mental 
+Generame 100 textos de más de 15 palabras de personas sin concentración, con dispersión mental 
+
+Generame 100 textos de menos de 5 palabras de personas con un grave problema de concentración, con una increíble dispersión mental e incapacidad para mantenerse enfocado
+Generame 100 textos de menos de 5 palabras de personas con un grave problema de concentración, con una increíble dispersión mental e incapacidad para mantenerse enfocado
+Generame 100 textos de menos de 10 palabras de personas con un grave problema de concentración, con una increíble dispersión mental e incapacidad para mantenerse enfocado
+Generame 100 textos de menos de 15 palabras de personas con un grave problema de concentración, con una increíble dispersión mental e incapacidad para mantenerse enfocado
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con un grave problema de concentración, con una increíble dispersión mental e incapacidad para mantenerse enfocado
+Generame 100 textos de más de 15 palabras de personas con un grave problema de concentración, con una increíble dispersión mental e incapacidad para mantenerse enfocado
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas sin concentración, con dispersión mental 
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas sin concentración, con dispersión mental 
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas sin concentración, con dispersión mental 
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas sin concentración, con dispersión mental 
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que hablen de otras personas sin concentración, con dispersión mental 
+Generame 100 textos de más de 15 palabras de personas que hablen de otras personas sin concentración, con dispersión mental 
+
+	Generame 100 textos de menos de 5 palabras de personas que no se distraen fácil en actividades y que se mantienen concentradas
+	Generame 100 textos de menos de 5 palabras de personas que no se distraen fácil en actividades y que se mantienen concentradas
+	Generame 100 textos de menos de 10 palabras de personas que no se distraen fácil en actividades y que se mantienen concentradas
+	Generame 100 textos de menos de 15 palabras de personas que no se distraen fácil en actividades y que se mantienen concentradas
+
+
+Generame 100 textos de menos de 5 palabras de personas que se concentran en actividades o que no se distraen
+Generame 100 textos de menos de 5 palabras de personas que se concentran en actividades o que no se distraen
+Generame 100 textos de menos de 10 palabras de personas que se concentran en actividades o que no se distraen
+Generame 100 textos de menos de 15 palabras de personas que se concentran en actividades o que no se distraen
+Generame 100 textos de más de 15 y menos de 25 palabras de personas que se concentran en actividades o que no se distraen
+Generame 100 textos de más de 15 palabras de personas que se concentran en actividades o que no se distraen
+
+Generame 100 textos de menos de 5 palabras de personas con facilidad para concentrarse en actividades y que nunca se distraen
+Generame 100 textos de menos de 5 palabras de personas con facilidad para concentrarse en actividades y que nunca se distraen 
+Generame 100 textos de menos de 10 palabras de personas con facilidad para concentrarse en actividades y que nunca se distraen
+Generame 100 textos de menos de 15 palabras de personas con facilidad para concentrarse en actividades y que nunca se distraen
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con facilidad para concentrarse en actividades y que nunca se distraen
+Generame 100 textos de más de 15 palabras de personas con facilidad para concentrarse en actividades y que nunca se distraen
+
+concentrarse o distraerse
+Generame 100 textos de menos de 5 palabras que no esten relacionados con concentrarse o distraerse
+Generame 100 textos de menos de 5 palabras que no esten relacionados con concentrarse o distraerse  
+Generame 100 textos de menos de 10 palabras que no esten relacionados con concentrarse o distraerse 
+Generame 100 textos de menos de 15 palabras que no esten relacionados con concentrarse o distraerse 
+Generame 100 textos de más de 15 y menos de 25 palabras que no esten relacionados con concentrarse o distraerse
+Generame 100 textos de más de 15 palabras que no esten relacionados con concentrarse o distraerse 
+
+I8
+comportamiento inquieto, nervioso o imperactivo
+	Generame 100 textos de menos de 5 palabras de personas con comportamiento algo inquieto, algo nervioso o algo imperactivo
+	Generame 100 textos de menos de 5 palabras de personas con comportamiento algo inquieto, algo nervioso o algo imperactivo
+	Generame 100 textos de menos de 10 palabras de personas con comportamiento algo inquieto, algo nervioso o algo imperactivo
+	Generame 100 textos de menos de 15 palabras de personas con comportamiento algo inquieto, algo nervioso o algo imperactivo
+
+Generame 100 textos de menos de 5 palabras de personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de 5 palabras de personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de 10 palabras de personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de 15 palabras de personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de más de 15 palabras de personas con comportamiento inquieto, nervioso o imperactivo
+
+Generame 100 textos de menos de 5 palabras de personas con comportamiento muy inquieto, muy nervioso o muy imperactivo
+Generame 100 textos de menos de 5 palabras de personas con comportamiento muy inquieto, muy nervioso o muy imperactivo
+Generame 100 textos de menos de 10 palabras de personas con comportamiento muy inquieto, muy nervioso o muy imperactivo
+Generame 100 textos de menos de 15 palabras de personas con comportamiento muy inquieto, muy nervioso o muy imperactivo
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con comportamiento muy inquieto, muy nervioso o muy imperactivo
+Generame 100 textos de más de 15 palabras de personas con comportamiento muy inquieto, muy nervioso o muy imperactivo
+
+TERCER PERSONA
+
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de 5 palabras de personas que hablen de otras personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de 10 palabras de personas que hablen de otras personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de 15 palabras de personas que hablen de otras personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de más de 15 y menos de 25 palabras de personas que hablen de otras personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de menos de más de 15 palabras de personas que hablen de otras personas con comportamiento inquieto, nervioso o imperactivo
+
+
+mucha lentitud, tranquilos, calma
+	Generame 100 textos de menos de 5 palabras de personas con algo de lentitud, algo de tranquilidad o algo de calma
+	Generame 100 textos de menos de 5 palabras de personas con algo de lentitud, algo de tranquilidad o algo de calma
+	Generame 100 textos de menos de 10 palabras de personas con algo de lentitud, algo de tranquilidad o algo de calma
+	Generame 100 textos de menos de 15 palabras de personas con algo de lentitud, algo de tranquilidad o algo de calma
+
+Generame 100 textos de menos de 5 palabras de personas con lentitud, tranquilidad o calma
+Generame 100 textos de menos de 5 palabras de personas con lentitud, tranquilidad o calma
+Generame 100 textos de menos de 10 palabras de personas con lentitud, tranquilidad o calma
+Generame 100 textos de menos de 15 palabras de personas con lentitud, tranquilidad o calma
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con lentitud, tranquilidad o calma
+Generame 100 textos de más de 15 palabras de personas con lentitud, tranquilidad o calma
+
+Generame 100 textos de menos de 5 palabras de personas con mucha lentitud, mucha tranquilidad o mucha calma
+Generame 100 textos de menos de 5 palabras de personas con mucha lentitud, mucha tranquilidad o mucha calma
+Generame 100 textos de menos de 10 palabras de personas con mucha lentitud, mucha tranquilidad o mucha calma
+Generame 100 textos de menos de 15 palabras de personas con mucha lentitud, mucha tranquilidad o mucha calma
+Generame 100 textos de más de 15 y menos de 25 palabras de personas con mucha lentitud, mucha tranquilidad o mucha calma
+Generame 100 textos de más de 15 palabras de personas con mucha lentitud, mucha tranquilidad o mucha calma
+
+estar inquieto, nervioso o calmado
+Generame 100 textos de menos de 5 palabras que no estén relacionados con estar inquieto, nervioso o calmado
+Generame 100 textos de menos de 5 palabras que no estén relacionados con estar inquieto, nervioso o calmado
+Generame 100 textos de menos de 10 palabras que no estén relacionados con estar inquieto, nervioso o calmado
+Generame 100 textos de menos de 15 palabras que no estén relacionados con estar inquieto, nervioso o calmado
+Generame 100 textos de más de 15 y menos de 25 palabras que no estén relacionados con estar inquieto, nervioso o calmado
+Generame 100 textos de más de 15 palabras que no estén relacionados con estar inquieto, nervioso o calmado
+
+I9
+
+Simula 100 mensajes de menos de 5 palabras de personas con pensamientos negativos o de
+lastimarse de alguna manera 
+Simula 100 mensajes de menos de 5 palabras de personas con pensamientos negativos o de
+lastimarse de alguna manera 
+Simula 100 mensajes de menos de 10 palabras de personas con pensamientos negativos o de
+lastimarse de alguna manera 
+Simula 100 mensajes de menos de 15 palabras de personas con pensamientos negativos o de
+lastimarse de alguna manera 
+Simula 100 mensajes de más de 15 y menos de 25 palabras de personas con pensamientos negativos o de
+lastimarse de alguna manera 
+
+Simula 100 mensajes de menos de 5 palabras de personas con pensamientos muy negativos o de
+lastimarse 
+Simula 100 mensajes de menos de 5 palabras de personas con pensamientos muy negativos o de
+lastimarse 
+Simula 100 mensajes de menos de 10 palabras de personas con pensamientos muy negativos o de
+lastimarse 
+Simula 100 mensajes de menos de 15 palabras de personas con pensamientos muy negativos o de
+lastimarse 
+Simula 100 mensajes de más de 15 y menos de 25 palabras de personas pensamientos muy negativos o de
+lastimarse 
+
+Generame 100 textos de menos de 5 palabras de personas con pensamientos positivos o con ganas de vivir
+Generame 100 textos de menos de 5 palabras de personas con pensamientos positivos o con ganas de vivir
+Generame 100 textos de menos de 10 palabras de personas con pensamientos positivos o con ganas de vivir
+Generame 100 textos de menos de 15 palabras de personas con pensamientos positivos o con ganas de vivir
+Generame 100 textos de más de 15 y menos de 25 palabras de personas pensamientos positivos o con ganas de vivir
+
+Generame 100 textos de menos de 5 palabras de personas con pensamientos muy positivos o con muchas ganas de vivir
+Generame 100 textos de menos de 5 palabras de personas con pensamientos muy positivos o con muchas ganas de vivir
+Generame 100 textos de menos de 10 palabras de personas con pensamientos muy positivos o con muchas ganas de vivir
+Generame 100 textos de menos de 15 palabras de personas con pensamientos muy positivos o con muchas ganas de vivir
+Generame 100 textos de más de 15 y menos de 25 palabras de personas pensamientos muy positivos o con muchas ganas de vivir
+
+Generame 100 textos de menos de 5 palabras que no estén relacionados con lastimarse, querer vivir, pensamientos positivos y negativos
+Generame 100 textos de menos de 5 palabras que no estén relacionados con lastimarse, querer vivir, pensamientos positivos y negativos
+Generame 100 textos de menos de 10 palabras que no estén relacionados con lastimarse, querer vivir, pensamientos positivos y negativos
+Generame 100 textos de menos de 15 palabras que no estén relacionados con lastimarse, querer vivir, pensamientos positivos y negativos
+Generame 100 textos de más de 15 y menos de 25 palabras que no estén relacionados con lastimarse, querer vivir, pensamientos positivos y negativos
+
+

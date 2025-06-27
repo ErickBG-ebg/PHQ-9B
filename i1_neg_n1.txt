@@ -1,0 +1,796 @@
+Me gusta un poco.
+
+Encuentro algo de satisfacción.
+
+Me motiva hacer esto.
+
+Disfruto un poco haciéndolo.
+
+Algo me interesa de esto.
+
+No está mal, lo disfruto.
+
+Me siento algo emocionado.
+
+Es interesante de alguna forma.
+
+Un poco de disfrute, la verdad.
+
+Siento algo de motivación.
+
+Hay algo divertido en esto.
+
+No es tan malo.
+
+Me hace sentir algo bien.
+
+Algo de interés tengo.
+
+No es tan aburrido.
+
+Es un poco interesante.
+
+Lo haría, pero con gusto.
+
+Algo de placer hay aquí.
+
+Siento curiosidad al respecto.
+
+Algo me anima a continuar.
+
+Es entretenido, aunque poco.
+
+No está tan mal, realmente.
+
+Me genera algo de emoción.
+
+Algo de placer disfruto.
+
+No me disgusta, la verdad.
+
+Hay algo agradable aquí.
+
+Encuentro algo de valor.
+
+Lo haría de nuevo, quizá.
+
+Me divierte un poco.
+
+Es entretenido, de alguna forma.
+
+No me molesta, es divertido.
+
+Siento algo de satisfacción aquí.
+
+Es algo que disfruto, más o menos.
+
+No está mal hacerlo, la verdad.
+
+Me entretiene ligeramente, lo admito.
+
+No es perfecto, pero disfrutable.
+
+Me interesa un poco más.
+
+Siento algo de placer al hacerlo.
+
+Algo de disfrute tiene.
+
+Hay algo que me gusta aquí.
+
+No me siento tan mal haciéndolo.
+
+Algo en esto es interesante.
+
+Me da algo de satisfacción.
+
+Me mantiene un poco interesado.
+
+Lo hago con algo de placer.
+
+No es tan terrible, en realidad.
+
+Siento algo de agrado.
+
+Algo me gusta aquí, de verdad.
+
+Me divierte, aunque un poco.
+
+Me gusta más de lo esperado.
+
+Me siento algo motivado.
+
+Lo hago con algo de interés.
+
+Tiene algo atractivo, la verdad.
+
+No es tan aburrido, sinceramente.
+
+Encuentro algo de emoción.
+
+Siento algo de curiosidad.
+
+Me interesa parcialmente, algo es.
+
+Es algo que disfruto hacer.
+
+No está mal del todo.
+
+Siento algo de placer aquí.
+
+Esto no está tan mal.
+
+Me gusta hacerlo, de alguna forma.
+
+Algo de disfrute siento.
+
+No me aburre completamente.
+
+Es algo que me agrada.
+
+No me disgusta para nada.
+
+Encuentro algo de diversión.
+
+Es algo interesante en ocasiones.
+
+Me siento un poco feliz.
+
+Me agrada un poco.
+
+Algo de interés siempre hay.
+
+No es tan malo, sinceramente.
+
+Disfruto de vez en cuando.
+
+Lo hago con algo de gusto.
+
+Es más divertido de lo esperado.
+
+No es todo malo, en realidad.
+
+Algo en esto me entretiene.
+
+Me genera algo de entusiasmo.
+
+Hay algo interesante en esto.
+
+Me interesa, aunque no mucho.
+
+Siento algo de emoción aquí.
+
+Es una buena distracción, la verdad.
+
+Me motiva un poco más.
+
+Algo me hace continuar.
+
+No está tan mal de hecho.
+
+Es algo de lo que disfruto.
+
+Algo de placer siempre tiene.
+
+Me siento medianamente motivado.
+
+Hay algo divertido en ello.
+
+Lo disfruto más de lo que pensaba.
+
+Algo en esto me gusta.
+
+No me molesta hacer esto.
+
+Tiene algo que me atrae.
+
+No me resulta tan aburrido.
+
+Siento una ligera emoción.
+
+Algo en esto es entretenido.
+
+Es un pequeño placer, la verdad.
+
+No está tan mal como parecía.
+
+Lo haría de nuevo, sin duda.
+
+Siento algo de satisfacción al hacerlo.
+Lo disfruto un poco.
+
+Me interesa, pero moderadamente.
+
+Es algo que me gusta.
+
+Lo haría con gusto.
+
+No está mal, sinceramente.
+
+Algo me motiva aquí.
+
+Me gusta, aunque poco.
+
+No me molesta hacerlo.
+
+Tiene su encanto, la verdad.
+
+Algo me entusiasma aquí.
+
+Me genera algo de interés.
+
+Es algo entretenido a ratos.
+
+Me agrada, aunque poco.
+
+Es interesante, pero no mucho.
+
+No está tan mal.
+
+Siento algo de satisfacción.
+
+Es entretenido, pero no tanto.
+
+Hay algo divertido aquí.
+
+Me interesa de alguna manera.
+
+No es tan aburrido.
+
+Me mantiene un poco ocupado.
+
+Siento algo de curiosidad.
+
+Es algo que disfruto.
+
+Encuentro algo de placer.
+
+No es perfecto, pero está bien.
+
+Me atrae un poco.
+
+Es algo que disfruto hacer.
+
+Me entretiene más de lo esperado.
+
+Encuentro algo divertido aquí.
+
+No es malo hacerlo.
+
+Me divierte ligeramente.
+
+Algo de interés siento.
+
+No está mal del todo.
+
+Siento algo de motivación.
+
+No es tan pesado.
+
+Hay algo agradable en esto.
+
+Es interesante de vez en cuando.
+
+Lo hago sin problemas.
+
+Algo en esto me atrae.
+
+Siento algo de agrado.
+
+Es más interesante de lo esperado.
+
+No me molesta hacerlo.
+
+Algo me hace seguir.
+
+Lo hago con algo de disfrute.
+
+Me resulta entretenido.
+
+Es algo que disfruto parcialmente.
+
+Tiene algo que me gusta.
+
+Me parece algo intrigante.
+
+Encuentro algo de emoción.
+
+No está mal hacerlo, en serio.
+
+Me genera algo de placer.
+
+Es más interesante de lo que parece.
+
+Me atrae en parte.
+
+Lo hago con algo de gusto.
+
+Tiene algo que capta mi atención.
+
+Es algo que me motiva.
+
+Lo disfruto, pero moderadamente.
+
+Algo de diversión tiene.
+
+No me disgusta del todo.
+
+Siento algo de agrado.
+
+Hay algo que me hace seguir.
+
+Me atrae de alguna manera.
+
+Me entretiene un poco.
+
+Lo hago con algo de entusiasmo.
+
+No es lo mejor, pero está bien.
+
+Algo de satisfacción siento.
+
+Encuentro algo de disfrute aquí.
+
+Me siento ligeramente motivado.
+
+No está mal del todo.
+
+Me siento algo inspirado.
+
+Lo disfruto más de lo esperado.
+
+Tiene algo interesante.
+
+No es tan aburrido, la verdad.
+
+Siento algo de gratificación.
+
+Es algo que hago con gusto.
+
+Algo en esto me gusta.
+
+Me divierte de vez en cuando.
+
+Es algo que me atrae parcialmente.
+
+Me mantiene algo entretenido.
+
+No me resulta pesado.
+
+Encuentro algo de emoción aquí.
+
+Es algo que me satisface un poco.
+
+Tiene algo que me mantiene.
+
+No está mal, la verdad.
+
+Algo de interés siempre hay.
+
+Siento un poco de entusiasmo.
+
+Es algo que disfruto moderadamente.
+
+Encuentro algo agradable en ello.
+
+No es tan terrible.
+
+Me da algo de satisfacción.
+
+No me resulta aburrido, en serio.
+
+Algo en esto me motiva.
+
+Me mantiene algo interesado.
+
+Es algo que me entretiene.
+
+Me agrada un poco, la verdad.
+
+No está mal hacerlo, la verdad.
+
+Algo de satisfacción siempre tiene.
+
+Lo disfruto, pero un poco.
+
+Es algo que me interesa parcialmente.
+
+Encuentro algo de valor en esto.
+Me interesa, pero con límites.
+
+Hay algo de diversión aquí.
+
+Lo disfruto más de lo esperado.
+
+Es entretenido, pero no mucho.
+
+No está mal, sinceramente.
+
+Algo de satisfacción siento aquí.
+
+Me gusta, pero con reservas.
+
+Es algo que me atrae.
+
+Es divertido, pero no siempre.
+
+Siento algo de curiosidad en esto.
+
+No me disgusta hacerlo, la verdad.
+
+Lo hago, aunque no mucho.
+
+Hay algo interesante en esto.
+
+Me agrada parcialmente, no mucho.
+
+Me mantiene interesado de vez en cuando.
+
+No es lo peor.
+
+Lo disfruto con moderación.
+
+Algo me motiva a seguir.
+
+Encuentro algo entretenido aquí.
+
+Me genera algo de interés.
+
+No es tan aburrido, en serio.
+
+Siento algo de agrado.
+
+Lo haría, pero no siempre.
+
+Me atrae, pero no completamente.
+
+Lo disfruto sin mucho entusiasmo.
+
+Es algo que hago por costumbre.
+
+Siento algo de motivación a veces.
+
+No está mal, sinceramente.
+
+Lo haría con más gusto.
+
+Tiene algo que me interesa.
+
+Me genera algo de placer.
+
+Encuentro algo de valor aquí.
+
+Me divierte de vez en cuando.
+
+Algo de satisfacción tengo aquí.
+
+Lo hago por obligación, pero me gusta.
+
+Me mantiene ocupado, al menos.
+
+No me molesta hacerlo, la verdad.
+
+Siento algo de gratificación.
+
+Lo hago con algo de interés.
+
+No es tan malo hacerlo.
+
+Hay algo entretenido en esto.
+
+No me desagrada por completo.
+
+Es algo que disfruto parcialmente.
+
+Algo en esto me atrae.
+
+No es lo más emocionante, pero está bien.
+
+Me interesa lo justo.
+
+Encuentro algo placentero aquí.
+
+Me mantiene algo interesado.
+
+Me parece algo intrigante.
+
+Siento algo de disfrute en ello.
+
+Es algo que hago sin quejas.
+
+Me gusta, pero no demasiado.
+
+No está mal, la verdad.
+
+Encuentro algo divertido a veces.
+
+Me resulta interesante, pero no siempre.
+
+No es tan malo, la verdad.
+
+Me mantiene ocupado por un rato.
+
+Me agrada sin mucho entusiasmo.
+
+No está tan mal hacerlo.
+
+Algo de interés tengo aquí.
+
+No es perfecto, pero agradable.
+
+Me atrae de alguna manera.
+
+Siento algo de emoción aquí.
+
+No está mal, lo disfruto.
+
+Lo hago sin quejarme.
+
+Siento algo de motivación.
+
+Lo disfruto, pero con límites.
+
+Es interesante, pero no siempre.
+
+Me interesa un poco.
+
+Me mantiene ocupado y entretenido.
+
+Algo en esto me interesa.
+
+Encuentro algo agradable aquí.
+
+No es tan aburrido, sinceramente.
+
+Es algo que me atrae.
+
+Lo disfruto a su manera.
+
+Me agrada, pero con moderación.
+
+No me molesta hacerlo a veces.
+
+Algo de diversión encuentro.
+
+Me mantiene algo concentrado.
+
+Es algo que hago sin apuro.
+
+Lo disfruto parcialmente, honestamente.
+
+Encuentro algo placentero en ello.
+
+Me mantiene interesado de vez en cuando.
+
+No está mal para ser honesto.
+
+Siento algo de satisfacción al hacerlo.
+
+Lo hago, pero no siempre con gusto.
+
+Encuentro algo de motivación en ello.
+
+Me agrada, pero con moderación.
+
+Me genera algo de curiosidad.
+
+No está tan mal hacerlo, la verdad.
+
+Lo hago, aunque no con mucho entusiasmo.
+
+Me atrae, pero poco a poco.
+
+No es lo peor, sinceramente.
+
+Algo de placer siento aquí.
+
+Lo hago porque me mantiene ocupado.
+
+Me interesa parcialmente, pero está bien.
+
+No es tan aburrido, sinceramente.
+
+Siento algo de emoción en esto.
+
+Me genera un poco de interés.
+
+No está mal hacerlo, sinceramente.
+Me atrae un poco, aunque no me entusiasma totalmente.
+
+Hay algo que disfruto, pero no es lo que esperaba.
+
+No está mal, lo haría de nuevo si es necesario.
+
+Me gusta hacerlo, pero no siempre me siento motivado.
+
+Encuentro algo de diversión, aunque a veces me cuesta.
+
+Me interesa, pero hay algo que me desmotiva un poco.
+
+Lo hago con gusto, pero sin demasiada emoción.
+
+Tiene algo de atractivo, aunque no es lo mejor.
+
+No es lo que esperaba, pero algo me divierte.
+
+Es interesante, pero no me llena por completo.
+
+Me atrae un poco, pero no quiero forzarme.
+
+Lo disfruto de vez en cuando, pero no constantemente.
+
+Hay algo que me entretiene, pero no soy tan fanático.
+
+Encuentro placer en esto, aunque no es mi pasión.
+
+No me desagrada, pero no lo haría siempre.
+
+Me atrae, pero también me siento un poco indiferente.
+
+Siento algo de placer, pero no me entusiasma totalmente.
+
+Lo hago sin problemas, pero no me emociona.
+
+No es mi favorita, pero tiene su encanto.
+
+Me gusta en ciertas circunstancias, pero no todo el tiempo.
+
+Es interesante, pero me gustaría que fuera más emocionante.
+
+Me da algo de satisfacción, pero no es mi prioridad.
+
+Lo hago, aunque a veces me cuesta encontrar motivación.
+
+Hay algo de interés, pero no siempre me siento motivado.
+
+Lo disfruto, pero a veces me siento distraído.
+
+Encuentro algo de interés, pero no me obsesiona.
+
+Me parece interesante, pero no lo hago por gusto siempre.
+
+No es lo más divertido, pero me mantiene ocupado.
+
+Lo haría de nuevo, aunque no siempre me emociona.
+
+Hay algo que me gusta, pero no es lo mejor.
+
+No siempre me atrae, pero es aceptable.
+
+Lo disfruto, pero no me da mucha satisfacción.
+
+Encuentro algo placentero, pero me canso rápido.
+
+No es lo peor, pero no me emociona del todo.
+
+Me interesa, pero no me apasiona tanto como esperaba.
+
+Lo hago porque tiene algo que me atrae, aunque no mucho.
+
+Me divierte, pero no constantemente.
+
+Es algo que hago sin mucho entusiasmo, pero no lo odio.
+
+No me desagrada, pero no me siento tan motivado.
+
+Siento algo de placer, pero no es tan excitante.
+
+No siempre disfruto, pero tiene algo atractivo.
+
+Lo hago sin mucho interés, pero tampoco me molesta.
+
+Hay algo interesante, pero no es lo más emocionante.
+
+Encuentro algo de disfrute, pero no es algo frecuente.
+
+Me atrae un poco, pero no siempre tengo ganas.
+
+No me aburre, pero tampoco me entusiasma demasiado.
+
+Me genera algo de satisfacción, pero no es lo ideal.
+
+Es algo que hago, aunque sin mucho entusiasmo.
+
+Hay algo que me gusta, pero no me obsesiona.
+
+Me interesa, pero prefiero otras actividades más emocionantes.
+
+Lo disfruto, pero no me produce gran satisfacción.
+
+Me agrada, pero hay momentos en que no me apetece.
+
+Siento algo de satisfacción, pero no me llena totalmente.
+
+Me interesa, pero no siempre me motiva lo suficiente.
+
+No me disgusta, pero no me emociona tanto.
+
+Encuentro algo de valor, pero no es lo más divertido.
+
+Me atrae, pero no con tanta pasión como otras cosas.
+
+Lo disfruto, pero no me apasiona.
+
+Hay algo que me gusta, pero no es mi favorito.
+
+Me resulta interesante, pero no me entusiasma.
+
+Lo hago porque tiene algo, aunque no lo disfruto plenamente.
+
+Siento algo de interés, pero no es lo que esperaba.
+
+No me aburre, pero tampoco lo disfruto al máximo.
+
+Me atrae un poco, pero no me llena por completo.
+
+Lo disfruto a veces, pero no siempre.
+
+Encuentro algo de placer, pero no es lo más gratificante.
+
+No me desagrada, pero tampoco me emociona.
+
+Me interesa, pero no es lo más divertido del mundo.
+
+Siento algo de satisfacción, pero no es lo que imaginaba.
+
+Me atrae un poco, pero no es lo que más me gusta.
+
+No es tan malo, pero me gustaría que fuera mejor.
+
+Lo hago con algo de entusiasmo, pero sin gran motivación.
+
+No está mal, pero no es tan divertido como parece.
+
+Me interesa, pero prefiero hacer otras cosas más emocionantes.
+
+Lo disfruto parcialmente, pero no es algo que haría todo el tiempo.
+
+Encuentro algo agradable, pero no lo haría todos los días.
+
+No me disgusta, pero no me llena del todo.
+
+Me gusta de vez en cuando, pero no constantemente.
+
+Siento algo de interés, pero no me hace sentir pleno.
+
+No es lo peor, pero tampoco lo más emocionante.
+
+Me atrae, pero no es lo más importante para mí.
+
+Lo disfruto moderadamente, pero no me motiva demasiado.
+
+Encuentro algo placentero, pero no es lo que prefiero.
+
+No me apasiona, pero tiene algo que me interesa.
+
+Lo haría de nuevo, pero no con mucho entusiasmo.
+
+Siento algo de satisfacción, pero no lo haría todo el tiempo.
+
+Lo disfruto de manera moderada, no con gran emoción.
+
+Me interesa un poco, pero no siempre.
+
+Hay algo que me atrae, pero no al máximo.
+
+No está mal, pero no me entusiasma demasiado.
+
+Lo disfruto parcialmente, aunque no al 100%.
+
+Siento algo de placer, pero no lo haría constantemente.
+
+Encuentro algo de interés, pero no todo el tiempo.
+
+Me atrae un poco, pero no lo prefiero siempre.
+
+Lo hago, pero no me emociona en exceso.
+
+Me genera algo de satisfacción, pero no es lo ideal.
+
+Siento algo de gratificación, pero no es lo más emocionante.
+
+Encuentro algo entretenido, pero no siempre me mantiene interesado.
+
+Me interesa, pero no con mucha intensidad.
+
+Lo disfruto con algo de esfuerzo, pero no es lo mejor.

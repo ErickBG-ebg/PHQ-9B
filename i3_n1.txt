@@ -1,0 +1,796 @@
+A veces me cuesta dormir.
+
+Me despierto un par de veces.
+
+No siempre duermo profundamente.
+
+Tardo un poco en dormir.
+
+Despierto a media noche.
+
+Me cuesta conciliar el sueño.
+
+Me despierto por la madrugada.
+
+Sueño ligero, me despierto.
+
+A veces no me duermo rápido.
+
+Tardo en encontrar el sueño.
+
+Mi mente no se apaga fácilmente.
+
+Duermo, pero no por mucho.
+
+Me cuesta quedarme dormido.
+
+Me despierto por unos minutos.
+
+No duermo de un tirón.
+
+Despierto muchas veces de noche.
+
+A veces me cuesta descansar.
+
+Me quedo dormido lentamente.
+
+El sueño me llega tarde.
+
+A veces tardo en dormir.
+
+No me duermo enseguida.
+
+Me despierto con facilidad.
+
+Dormir es lento para mí.
+
+Despierto varias veces en la noche.
+
+Me cuesta relajarme para dormir.
+
+Tardo mucho en dormirme.
+
+Despierto y luego duermo.
+
+Me cuesta desconectarme del día.
+
+Dormir no es instantáneo.
+
+Tardo, pero logro dormir.
+
+Me cuesta encontrar descanso.
+
+Duermo un rato, luego despierto.
+
+Tardo en soltar el día.
+
+Mi mente sigue activa al dormir.
+
+Me despierto y no puedo dormir.
+
+A veces no me quedo dormido.
+
+Sueño llega con retraso.
+
+Me cuesta desconectar mi mente.
+
+Despierto, pero luego duermo.
+
+No duermo profundamente siempre.
+
+Tardo un rato en dormir.
+
+Despierto por segundos de noche.
+
+Mi descanso es interrumpido.
+
+Me cuesta quedarme profundamente dormido.
+
+Despierto y me cuesta volver a dormir.
+
+Mi sueño es interrumpido.
+
+No siempre duermo seguido.
+
+Me cuesta encontrar el sueño.
+
+Me despierto varias veces.
+
+A veces tardo en relajarme.
+
+Me cuesta volver a dormir.
+
+Despierto con frecuencia de noche.
+
+Sueño se interrumpe a veces.
+
+Me despierto un poco durante la noche.
+
+A veces no duermo bien.
+
+No duermo seguido siempre.
+
+Despierto, pero me duermo rápido.
+
+Tardo en desconectarme.
+
+Me cuesta mucho descansar.
+
+Me despierto a veces.
+
+Duermo, pero no profundamente.
+
+Mi mente no se apaga rápido.
+
+Tardo en quedarme dormido.
+
+No duermo de un tirón.
+
+Me despierto y me cuesta dormir.
+
+Tardo en calmarme para dormir.
+
+Mi descanso no es continuo.
+
+Sueño se interrumpe con frecuencia.
+
+Despierto de noche y luego duermo.
+
+A veces duermo poco tiempo.
+
+Mi sueño se interrumpe ligeramente.
+
+Tardo más en quedarme dormido.
+
+Me cuesta volver a dormir.
+
+Me despierto varias veces por noche.
+
+Despierto a mitad de la noche.
+
+Me despierto por momentos.
+
+Me cuesta descansar profundamente.
+
+Me despierto a veces al final.
+
+Duermo, pero me despierto.
+
+Despierto varias veces a la madrugada.
+
+A veces me cuesta desconectar.
+
+Mi sueño es un poco interrumpido.
+
+Me despierto, pero luego duermo.
+
+Tardo en conciliar el sueño.
+
+Despierto durante la madrugada.
+
+Mi sueño es algo ligero.
+
+Me cuesta mantenerme dormido.
+
+Me despierto pero regreso a dormir.
+
+A veces no logro descansar.
+
+Tardo un poco en relajarme.
+
+Me despierto en la madrugada.
+
+Mi mente no se apaga fácilmente.
+
+No siempre me duermo rápido.
+
+Mi sueño no es continuo.
+
+Me cuesta volver a descansar.
+
+Me despierto con facilidad por la noche.
+
+Tardo en relajarme para dormir.
+
+Me cuesta dormir de un tirón.
+
+Duermo en segmentos cortos.
+
+Despierto varias veces por la madrugada.
+Me cuesta un poco dormir.
+
+Duermo, pero no seguido.
+
+Tardo algo en dormir.
+
+A veces me despierto.
+
+Sueño algo interrumpido hoy.
+
+No dormí tan seguido.
+
+Me despierto a ratos.
+
+No me dormí rápido.
+
+Duermo por partes.
+
+Me costó dormir anoche.
+
+Dormí, pero no profundo.
+
+Me tardé en dormir.
+
+Me despierto sin razón.
+
+Tardo algo en conciliar.
+
+El sueño va lento.
+
+Me toma tiempo dormir.
+
+Me cuesta quedarme dormido.
+
+Dormí por tramos.
+
+Me desperté un par veces.
+
+El sueño viene tarde.
+
+Despierto y vuelvo a dormir.
+
+Me levanté sin querer.
+
+No dormí tan bien.
+
+Duermo algo interrumpido últimamente.
+
+Me cuesta soltar el día.
+
+Me despierto con ruidos.
+
+No logro dormir de golpe.
+
+El sueño me tarda.
+
+Me dormí con dificultad.
+
+Tardo más de lo normal.
+
+Me levanto sin motivo.
+
+Despierto entre sueños.
+
+Me despierto más de una vez.
+
+Duermo poco seguido.
+
+Me tardo en relajarme.
+
+A veces no descanso bien.
+
+Me cuesta mantener el sueño.
+
+Me despierto a media noche.
+
+Duermo por intervalos.
+
+El sueño no es continuo.
+
+Me cuesta algo descansar.
+
+Dormir no es tan fácil.
+
+Me despierto brevemente.
+
+A veces me levanto temprano.
+
+Tardo un poco más.
+
+Me despierto al rato.
+
+No fue sueño profundo.
+
+Despierto y tardo en volver.
+
+Me levanto sin razón.
+
+El descanso no fue completo.
+
+Me cuesta un poco relajarme.
+
+No dormí todo seguido.
+
+A veces me levanto antes.
+
+Me cuesta volver a dormir.
+
+Me tardo más últimamente.
+
+Me despierto aunque tenga sueño.
+
+Duermo con interrupciones leves.
+
+El sueño es algo fragmentado.
+
+Me cuesta descansar de corrido.
+
+Me cuesta dormir como antes.
+
+Tardo en agarrar sueño.
+
+El sueño va lento ahora.
+
+Duermo, pero no parejo.
+
+Me duermo en partes.
+
+Me despierto con facilidad.
+
+El sueño se corta.
+
+Me cuesta desconectar.
+
+Me despierto sin querer.
+
+No duermo todo de corrido.
+
+Me levanto entre sueños.
+
+El descanso se interrumpe.
+
+No fue sueño parejo.
+
+Me cuesta dormir bien.
+
+Me despierto de madrugada.
+
+Me tardo en dormir.
+
+No descanso del todo.
+
+Me levanto un poco.
+
+Duermo con breves pausas.
+
+Sueño algo interrumpido.
+
+Me cuesta caer en sueño.
+
+Me duermo con pausas.
+
+Me tardo cada noche.
+
+Duermo, pero no constante.
+
+Me cuesta dormir profundo.
+
+No dormí de corrido.
+
+Me levanté por momentos.
+
+Me cuesta dormir seguido.
+
+Me cuesta entrar en sueño.
+
+Tardo en soltar el día.
+
+No caigo en sueño profundo.
+
+Me despierto cada tanto.
+
+No logro dormir parejo.
+
+El descanso viene con pausas.
+
+Me duermo a ratos.
+
+Me cuesta un poco más.
+
+No duermo tan profundo.
+
+Me cuesta descansar seguido.
+
+Sueño entrecortado últimamente.
+
+Me duermo lentamente.
+
+Me despierto antes de tiempo.
+Me cuesta un poco dormir.
+
+Me despierto de vez en cuando.
+
+Duermo, pero no de corrido.
+
+Tardo un rato en dormir.
+
+Me levanto sin razón clara.
+
+El sueño tarda en llegar.
+
+Me despierto con cualquier ruido.
+
+Me cuesta relajar la mente.
+
+Me dormí, pero me desperté.
+
+No logro dormir del todo.
+
+Me levanto varias veces por noche.
+
+El sueño se interrumpe a veces.
+
+Tardo más de lo normal.
+
+Me despierto sin motivo.
+
+Duermo, pero no profundamente.
+
+Me duermo en varios intentos.
+
+A veces me cuesta dormir.
+
+El descanso se corta de pronto.
+
+Me desvelo sin querer.
+
+Me levanto antes de tiempo.
+
+Duermo bien, pero con pausas.
+
+Me cuesta quedarme dormido rápido.
+
+El sueño no es continuo.
+
+Me despierto y vuelvo a dormir.
+
+Me tardo más últimamente.
+
+Me cuesta desconectarme al dormir.
+
+Sueño algo interrumpido estos días.
+
+Me duermo, pero no seguido.
+
+No puedo dormir del tirón.
+
+Me cuesta entrar en sueño.
+
+Duermo con interrupciones breves.
+
+Me despierto en la madrugada.
+
+Me cuesta descansar sin pausas.
+
+A veces me levanto sin querer.
+
+Me duermo con lentitud.
+
+El sueño me toma tiempo.
+
+Me despierto en plena noche.
+
+Duermo en tramos cortos.
+
+Me tardo en relajarme.
+
+Me cuesta mantener el sueño.
+
+El descanso no es completo.
+
+Duermo poco y me despierto.
+
+Tardo en agarrar el sueño.
+
+Me levanto a mitad de noche.
+
+El sueño se me escapa.
+
+Me cuesta soltar el día.
+
+Me cuesta llegar al sueño.
+
+Me duermo en partes.
+
+El descanso viene por ratos.
+
+No logro dormir profundamente.
+
+Me cuesta cerrar los ojos.
+
+Me despierto cuando todo está en silencio.
+
+El sueño no es tan profundo.
+
+Me duermo con interrupciones.
+
+Tardo en quedarme tranquilo.
+
+Me levanto aunque esté cansado.
+
+Me cuesta entrar en sueño profundo.
+
+El descanso se corta fácil.
+
+Duermo con pausas inesperadas.
+
+Me despierto al mínimo ruido.
+
+No logro dormir sin pausas.
+
+Me duermo con pensamientos activos.
+
+Me cuesta soltar el cuerpo.
+
+Me despierto sin haber descansado.
+
+Me tardo en desconectar.
+
+Duermo mal algunos días.
+
+Me cuesta descansar del todo.
+
+Duermo a medias muchas noches.
+
+Me despierto sin saber por qué.
+
+Me levanto aunque tenga sueño.
+
+El sueño viene con dificultad.
+
+No siempre duermo bien.
+
+Me cuesta mantenerme dormido.
+
+El sueño me cuesta a veces.
+
+Me tardo en dormir últimamente.
+
+Me despierto entre sueños.
+
+Me cuesta descansar como antes.
+
+Me duermo, pero no por mucho.
+
+El sueño me abandona temprano.
+
+Me despierto muy seguido.
+
+Me cuesta mucho relajarme.
+
+Duermo, pero me levanto.
+
+Me cuesta descansar a fondo.
+
+Me despierto sin abrir los ojos.
+
+Me levanto con frecuencia.
+
+No logro dormir tan bien.
+
+Duermo, pero no tan profundo.
+
+Me cuesta calmar mi mente.
+
+Me cuesta caer rendido.
+
+Me despierto entre ruidos lejanos.
+
+Duermo poco, me despierto mucho.
+
+El descanso no dura mucho.
+
+Me duermo a ratos nomás.
+
+El sueño se rompe fácil.
+
+Me tardo cada noche.
+
+No descanso como quisiera.
+
+Duermo, pero a trozos.
+
+Me despierto con facilidad ahora.
+
+Me duermo, pero me levanto.
+
+Me cuesta un poco más dormir.
+Me cuesta un poco dormirme cada noche.
+
+Me despierto a veces sin razón aparente.
+
+No siempre logro dormir del todo bien.
+
+Tardo más de lo normal en dormirme.
+
+Duermo, pero con varios despertares en la noche.
+
+A veces me cuesta conciliar el sueño.
+
+Me duermo, pero no profundamente.
+
+Mi sueño se interrumpe más seguido últimamente.
+
+Me despierto varias veces sin querer.
+
+Duermo bien, pero con algunas pausas.
+
+El sueño tarda en llegar algunas noches.
+
+Me levanto en la madrugada sin motivo.
+
+El descanso no siempre es completo.
+
+Me cuesta entrar en sueño profundo.
+
+Me duermo y despierto a ratos.
+
+El sueño se interrumpe en la noche.
+
+Me tardo un poco más en dormir.
+
+Algunas noches no descanso como quisiera.
+
+Me cuesta mantenerme dormido últimamente.
+
+Me despierto más de una vez.
+
+Duermo en partes, nunca seguido.
+
+Me duermo con dificultad a veces.
+
+Me cuesta soltar el cuerpo al dormir.
+
+Me despierto cuando hay silencio total.
+
+El sueño no siempre es continuo.
+
+Me levanto sin estar completamente descansado.
+
+Me cuesta desconectarme para dormir.
+
+Me cuesta dejar de pensar antes de dormir.
+
+El descanso se siente más liviano últimamente.
+
+Me duermo tarde, aunque tenga sueño.
+
+Tardo un poco en relajarme.
+
+Me despierto sin haber dormido lo suficiente.
+
+Algunas noches el sueño viene lento.
+
+Me despierto al menor ruido nocturno.
+
+No siempre duermo de corrido.
+
+Me cuesta apagar la mente a la noche.
+
+Me despierto sin querer varias veces.
+
+Me cuesta quedarme dormido si hay luz.
+
+Duermo, pero no descanso del todo.
+
+El sueño llega con demora últimamente.
+
+Me cuesta tener un sueño profundo.
+
+Me duermo, pero vuelvo a despertar.
+
+Me despierto con facilidad últimamente.
+
+Me levanto antes de lo previsto.
+
+Me duermo, pero me levanto temprano.
+
+Me tardo más en dormir estos días.
+
+Me cuesta mantenerme dormido sin interrupciones.
+
+Me cuesta soltar el estrés al dormir.
+
+Me despierto sin sentir descanso.
+
+Me duermo, pero me interrumpo solo.
+
+Algunas noches duermo a medias.
+
+Me tardo en desconectar para dormir.
+
+Me duermo tarde sin razón.
+
+El sueño me dura poco últimamente.
+
+Me levanto varias veces sin querer.
+
+Me cuesta mantener los ojos cerrados.
+
+Me duermo, pero no profundamente.
+
+Algunas noches me levanto cansado.
+
+Me cuesta quedarme dormido rápido.
+
+Duermo con interrupciones cada noche.
+
+Me despierto con frecuencia nocturna.
+
+Me cuesta dormir como antes.
+
+Tardo un rato en tranquilizarme.
+
+Me despierto y vuelvo a dormir lento.
+
+El sueño viene con esfuerzo últimamente.
+
+Me cuesta dormir más de tres horas seguidas.
+
+Me duermo tarde aunque esté cansado.
+
+Me despierto muy seguido últimamente.
+
+Me cuesta encontrar una posición para dormir.
+
+El descanso me resulta difícil algunas noches.
+
+Me levanto más temprano de lo que quiero.
+
+Me duermo y despierto sin saber por qué.
+
+Me cuesta agarrar el sueño profundamente.
+
+Me despierto sin razón aparente.
+
+Me cuesta sostener el sueño profundo.
+
+Me duermo, pero cualquier cosa me despierta.
+
+Me levanto sin sentirme renovado.
+
+Me cuesta conciliar el sueño en silencio.
+
+Me tardo mucho en quedarme dormido.
+
+El sueño viene y se va.
+
+Me despierto aún con los ojos cerrados.
+
+El descanso no es tan reparador como antes.
+
+Me cuesta llegar al sueño profundo.
+
+Duermo, pero no profundamente.
+
+Me cuesta dejar de pensar antes de dormir.
+
+Me despierto con sensación de estar cansado.
+
+Me cuesta dormirme aunque esté cansado.
+
+Me duermo con pensamientos dando vueltas.
+
+Me levanto antes de que suene la alarma.
+
+Me cuesta relajarme por completo.
+
+Me despierto por cualquier ruido leve.
+
+Me cuesta entrar en sueño profundo últimamente.
+
+Me despierto de golpe algunas noches.
+
+Me cuesta calmar la mente para dormir.
+
+Me despierto sin motivo claro a veces.
+
+Me cuesta sostener el sueño por horas.
+
+Me duermo bien, pero me despierto rápido.
+
+El descanso no es tan continuo como antes.
+
+Me levanto en medio de la noche.
+
+Me cuesta dormir profundamente en los últimos días.

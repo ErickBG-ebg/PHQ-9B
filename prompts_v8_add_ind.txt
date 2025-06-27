@@ -1,0 +1,89 @@
+Adicional (cambio-ind):
+necesito que generes textos que simulen ser mensajes de personas , tienen que representar lo solicitado de múltiples formas, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+- No habrá representación de longitud
+
+i1
+Generame 100 textos de personas sin interés o sin placer en hacer las cosas  x3
+Generame 100 textos de personas que expresen un desinterés inmenso en realizar actividades o que expresen una carencia enorme de placer en hacer las cosas 
+Generame 100 textos de personas con interés y placer en hacer cosas x3
+Generame 100 textos de personas con mucho interés y mucho placer en hacer cosas  x3
+
+recuerda, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+
+i2
+
+Generame 100 textos de personas decaídas o tristes x3
+Generame 100 textos de personas muy decaídas, muy tristes o sin esperanzas x3
+Generame 100 textos de personas animadas, felices o con esperanzas x3
+Generame 100 textos de personas muy animadas, muy felices o con muchas esperanzas x3
+
+recuerda, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+
+i3
+
+Generame 100 textos de personas con dificultad para quedarse dormido, dificultad para permanecer dormido o con insomnio
+Generame 100 textos de personas con mucha dificultad para quedarse dormido, mucha dificultad para permanecer dormido o con mucho con insomnio
+Generame 100 textos de personas con facilidad para quedarse dormido, facilidad para permanecer dormido o sin insomnio
+Generame 100 textos de personas con mucha facilidad para quedarse dormido, mucha facilidad para permanecer dormido o sin insomnio
+
+recuerda, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+
+i4
+
+Generame 100 textos de personas con cansancio, con agotamiento, sin energía
+Generame 100 textos de personas con agotamiento profundo, con la sensación de estar drenado, sin fuerzas y con dificultades para seguir adelante.
+Generame 100 textos de personas con energía y sin cansancio
+Generame 100 textos de personas con mucha energía y con muchas fuerzas
+
+i5
+recuerda, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+
+Generame 100 textos de personas sin apetito, sin hambre, o sin deseos de comer
+Generame 100 textos de personas con una profunda desconexión emocional y física con la comida, reflejando un repudio a la comida o rechazo total a la idea de comer
+Generame 100 textos de personas con mucho apetito o mucha hambre
+Generame 100 textos de personas con demasiado apetito o demasiada hambre, que coman en exceso o vivan para comer 
+
+
+i6
+recuerda, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+
+Generame 100 textos de personas con desesperanza, autodesvalorización y frustración ante los fracasos personales y familiares
+Generame 100 textos de personas con un profundo sentimiento de desesperanza, autodesvalorización y fuerte frustración ante los fracasos personales y familiares
+Generame 100 textos de personas con sentimientos de logro o sensación de triunfo a nivel personal o familar
+Generame 100 textos de personas con sentimientos de gran logro o una gran sensación de triunfo a nivel personal o familar
+
+
+
+i7
+recuerda, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+
+Generame 100 textos de personas sin concentración, con dispersión mental 
+Generame 100 textos de personas con un grave problema de concentración, con una increíble dispersión mental e incapacidad para mantenerse enfocado
+Generame 100 textos de personas que se concentran en actividades o que no se distraen
+Generame 100 textos de personas con facilidad para concentrarse en actividades y que nunca se distraen
+
+
+i8
+recuerda, los textos tienen que representar lo solicitado, pero no debe ser de manera directa
+
+Generame 100 textos de personas con comportamiento inquieto, nervioso o imperactivo
+Generame 100 textos de personas con comportamiento muy inquieto, muy nervioso o muy imperactivo
+Generame 100 textos de personas con lentitud, tranquilidad o calma
+Generame 100 textos de personas con mucha lentitud, mucha tranquilidad o mucha calma
+
+
+
+NOTAS:DEEPSEEK
+
+Se intentó seguir los mismos prompts que en chatgpt, sin embargo, parecia que para generar textos se necesitaba se muy extacto todo el tiempo.
+el modelo no podia mantener el hilo de las solicitudes mucho tiempo, es decir empezaba a divagar y era necesario volver a contextualizar
+El modelo generaba muchos textos en inglés pese a las solicitud de textos en español
+tambien tenia problemas al generar más de 50 textos por solicitud y a veces no genraba la cantidad solicitada, es muy complicado que el modelo sea "creativo generando textos de ejemplo"
+
+Respecto a buenos aspectos el modelo genero textos con uso de emojis, algho que chatgpt rara vez generaba, los textos que se generaron correctamenrte varian mucho a los generados a chatgpt, y ofrecen otra perspectiva en la generación de texto (combinando frases en español con secciones a inglés). 
+
+Otro aspecto curioso son las faltas de ortografia, lo que podria ser algo bueno o malo dependiendo de la tecnica que se vaya a utilizar para clasificar los textos.
+
+sin embargo por mucho el lado más negativo es que el modelo se confundia a veces y generaba peticiones que eran solicitadas, y generaba muchas oraciones repetidas en algunos indicadores, por lo que, en base a todos los detalles observados, deeepseek-r1:8b no es tan buena generando textos en español como chatgpt.
+
+

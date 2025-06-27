@@ -1,0 +1,796 @@
+Tengo hambre, ¿qué hay?
+
+¿Alguien tiene algo de comer?
+
+Muero de hambre ahora.
+
+Qué ganas de comer algo.
+
+¿Qué comemos hoy?
+
+Mi estómago está rugiendo.
+
+Necesito comer ya mismo.
+
+Tengo un hambre feroz.
+
+¿Comida? ¡Sí, por favor!
+
+Qué hambre tengo, wow.
+
+No puedo con este hambre.
+
+Muero por algo delicioso.
+
+Mi barriga pide comida.
+
+Tengo muchas ganas de comer.
+
+¡Qué delicioso, tengo hambre!
+
+¿Ya es hora de comer?
+
+Mi estómago está vacío.
+
+¡Tengo hambre, urgente!
+
+Necesito comer algo rápido.
+
+Este hambre no me deja.
+
+Estoy muriendo de hambre.
+
+¿A qué hora comemos?
+
+Necesito algo delicioso.
+
+El hambre no para hoy.
+
+¡Qué hambre tan grande!
+
+Mi estómago está pidiendo comida.
+
+Ya quiero algo de comer.
+
+Tengo ganas de picar algo.
+
+Qué bien se siente comer.
+
+El hambre me está matando.
+
+Estoy con hambre ahora mismo.
+
+¿Quién tiene algo para comer?
+
+Mi estómago está quejándose.
+
+El hambre me está arrastrando.
+
+Tengo hambre, quiero pizza.
+
+Estoy hambriento, ¿algo rápido?
+
+Comida, por favor, ya.
+
+Este hambre no me deja.
+
+Tengo un hambre tremenda.
+
+Qué bien se siente comer.
+
+Mi cuerpo pide comida.
+
+Quiero algo de comer.
+
+No aguanto más, hambre.
+
+¿Hay algo para comer?
+
+Estoy listo para comer.
+
+Qué delicioso se ve eso.
+
+¿Tienes algo para comer?
+
+¿Puedo comer ya, por favor?
+
+Mi estómago no para.
+
+¿Ya es hora de comer?
+
+El hambre me consume ahora.
+
+Tengo hambre, algo rápido.
+
+Estoy a punto de devorar.
+
+Este hambre no tiene fin.
+
+Qué rico se ve eso.
+
+Estoy con hambre, qué bueno.
+
+Qué ganas de comer ya.
+
+Necesito algo ahora mismo.
+
+Tengo hambre, vamos ya.
+
+Estoy listo para un bocado.
+
+El hambre es real aquí.
+
+No aguanto más el hambre.
+
+Tengo mucha hambre ahora.
+
+¿Alguien más tiene hambre?
+
+Estoy muerto de hambre.
+
+El hambre me está hablando.
+
+¡Qué hambre tan grande hoy!
+
+Necesito algo delicioso, urgente.
+
+Estoy ansioso por comer.
+
+Tengo hambre, quiero tacos.
+
+¡La comida es mi prioridad!
+
+Quiero un bocado ya.
+
+Este hambre me va a matar.
+
+El hambre me está atormentando.
+
+Mi cuerpo pide comida ahora.
+
+Qué hambre, ¿dónde está la comida?
+
+¿Ya podemos comer algo?
+
+Este hambre me tiene cansado.
+
+¡Estoy listo para comer!
+
+Tengo hambre, ¿qué hay?
+
+El hambre no me deja.
+
+No puedo con este hambre.
+
+Estoy con hambre todo el día.
+
+Necesito algo para comer.
+
+Mi estómago está rugiendo fuerte.
+
+¿Qué tenemos para comer?
+
+Estoy con hambre, qué rico.
+
+Este hambre no se aguanta.
+
+¿A qué hora comemos?
+
+Qué bien se siente comer.
+
+Quiero comer algo ahora mismo.
+
+El hambre me está matando hoy.
+
+Tengo un hambre monstruosa.
+
+¿Comemos ya? Estoy muerto.
+
+Mi estómago me habla de hambre.
+
+Ya quiero algo delicioso.
+
+¿Algo para comer? Tengo hambre.
+
+Mi cuerpo pide comida.
+
+Estoy lleno de hambre.
+
+Tengo hambre, ¿quién tiene comida?
+Tengo hambre ahora mismo.
+
+¿Comida? ¡Sí, por favor!
+
+Muero de hambre, necesito algo.
+
+Qué hambre tengo, wow.
+
+Estoy muerto de hambre.
+
+¿A qué hora comemos?
+
+Necesito comida, urgente.
+
+Tengo mucha hambre, ¿comida?
+
+Mi estómago está vacío.
+
+¡Qué bien se siente comer!
+
+Mi barriga pide comida.
+
+¡Tengo hambre, rápido!
+
+Muero por algo delicioso.
+
+Comer, por favor, ya.
+
+El hambre no me deja.
+
+Qué hambre tengo hoy.
+
+Mi estómago está rugiendo.
+
+Necesito comer algo ya.
+
+Tengo ganas de comer.
+
+Comer me salvaría ahora.
+
+Mi estómago está vacío.
+
+Qué hambre tan grande hoy.
+
+Estoy con hambre, urgencia.
+
+Comida, por favor, ya.
+
+Necesito algo delicioso.
+
+Este hambre no para.
+
+Tengo hambre, quiero pizza.
+
+¿Alguien tiene algo de comer?
+
+No aguanto más, hambre.
+
+Comer me da vida.
+
+¿Ya podemos comer algo?
+
+Tengo hambre, quiero tacos.
+
+Qué hambre, ¿dónde está la comida?
+
+Tengo un hambre feroz.
+
+Estoy hambriento, ¿algo rápido?
+
+Comer ya no puede esperar.
+
+Este hambre me consume.
+
+Estoy listo para comer.
+
+¿Tienes algo para comer?
+
+No aguanto más el hambre.
+
+Mi cuerpo pide comida.
+
+Quiero algo de comer.
+
+El hambre me está matando.
+
+¿Comemos ya? Tengo hambre.
+
+Comer me da energía.
+
+Qué bien se ve eso.
+
+Comer sería genial ahora.
+
+Estoy a punto de devorar.
+
+Estoy con hambre, qué bueno.
+
+Mi estómago ruge de hambre.
+
+El hambre me atormenta.
+
+¿Ya es hora de comer?
+
+Estoy con hambre, qué delicioso.
+
+El hambre es real aquí.
+
+¿Alguien más tiene hambre?
+
+Tengo hambre, vamos ya.
+
+Comer me hace feliz.
+
+Quiero un bocado ya.
+
+Este hambre no tiene fin.
+
+Qué rico se ve eso.
+
+Estoy ansioso por comer.
+
+El hambre no se aguanta.
+
+Tengo hambre, quiero comida.
+
+Ya quiero algo delicioso.
+
+Comer es prioridad ahora.
+
+Este hambre no me deja.
+
+Necesito algo ahora mismo.
+
+Comer es lo único que quiero.
+
+Tengo hambre, ¿qué hay?
+
+Mi estómago está vacío.
+
+¿Comemos ya? Estoy muerto.
+
+Tengo hambre, ¿comida rápida?
+
+El hambre me está hablando.
+
+Comer, ¿puedo ya?
+
+Tengo hambre, por favor.
+
+Mi cuerpo pide alimentos.
+
+Estoy listo para un bocado.
+
+Comer sería perfecto ahora.
+
+El hambre me consume hoy.
+
+¿Qué tenemos para comer?
+
+Estoy con hambre todo el día.
+
+Comer ya no puede esperar.
+
+El hambre me está matando.
+
+Comer me trae felicidad.
+
+Mi estómago ruge fuerte.
+
+Qué hambre tan inmensa.
+
+Comer es mi necesidad.
+
+El hambre me tiene atrapado.
+
+Necesito comida urgente, ahora.
+
+Comer ya, por favor.
+
+Qué rico se ve eso.
+
+Mi estómago pide comida.
+
+Tengo hambre, quiero algo delicioso.
+
+Comer me hace sentir bien.
+
+Mi cuerpo necesita algo ya.
+
+No aguanto más hambre.
+
+Comer es lo que quiero.
+
+Mi estómago pide comida ahora.
+
+Estoy listo para comer.
+
+Comer sería perfecto ahora.
+Tengo hambre, ¿qué hay de comida?
+
+El hambre me está matando, necesito algo ya.
+
+Estoy con mucha hambre, ¿hay algo para comer?
+
+¿Comemos ya? Mi estómago está rugiendo.
+
+Muero de hambre, ¿alguien tiene algo?
+
+Mi cuerpo pide comida urgentemente.
+
+Necesito algo para comer, tengo hambre.
+
+El hambre no me deja, ¿comemos ya?
+
+Qué hambre tengo, ¿algo de comida?
+
+Estoy muerto de hambre, ¿qué hay?
+
+Qué ganas de comer algo delicioso.
+
+Mi estómago está vacío, necesito comida.
+
+Estoy con hambre, ¿qué hay para comer?
+
+Comer algo me haría feliz ahora mismo.
+
+Tengo hambre, ¿podemos comer ya?
+
+Comer sería perfecto en este momento.
+
+El hambre me consume, ¿qué tenemos?
+
+Necesito comida, ya no aguanto más hambre.
+
+Mi estómago está rugiendo por comida.
+
+Estoy listo para comer algo delicioso.
+
+Comer ahora me viene genial.
+
+Qué bien se ve eso, tengo hambre.
+
+Tengo hambre, quiero algo sabroso.
+
+Mi estómago me está pidiendo comida.
+
+Comer algo me haría sentir mejor.
+
+¿Tienes algo para comer? Estoy muerto de hambre.
+
+Tengo mucha hambre, ¿podemos comer?
+
+El hambre me está atacando, ¿qué hacemos?
+
+Mi estómago está vacío, necesito alimento.
+
+Qué hambre tan grande tengo hoy.
+
+Comer es lo que más quiero ahora.
+
+Necesito comer algo, el hambre me mata.
+
+Comer ahora me haría sentir bien.
+
+El hambre me está desgastando, ¿algo de comida?
+
+Mi estómago está pidiendo comida con urgencia.
+
+Tengo hambre, ¿qué podemos comer ya?
+
+¿Comemos ya? Tengo mucha hambre.
+
+Estoy muy hambriento, ¿hay comida?
+
+El hambre es real, ¿qué hay para comer?
+
+Comer algo sería perfecto ahora mismo.
+
+Tengo mucha hambre, necesito algo de comer.
+
+Mi estómago está pidiendo algo ya.
+
+Estoy muerto de hambre, ¿comemos ya?
+
+¿Alguien tiene algo para comer? Tengo hambre.
+
+Mi cuerpo pide comida, ¿qué hay?
+
+Estoy hambriento, necesito algo ya.
+
+Comer algo sería un alivio ahora mismo.
+
+Tengo hambre, ¿qué podemos comer?
+
+El hambre me está atacando fuerte.
+
+Mi estómago ruge, necesito comida.
+
+Comer algo me aliviaría ahora.
+
+Estoy con hambre, ¿podemos comer?
+
+El hambre no me deja en paz hoy.
+
+Mi estómago está vacío, ¿qué tenemos?
+
+Comer sería un placer ahora mismo.
+
+El hambre no me deja descansar, ¿qué hay?
+
+Estoy muerto de hambre, ¿comemos ya?
+
+Mi estómago ruge de hambre, necesito comida.
+
+Tengo hambre, ¿qué vamos a comer?
+
+Comer me haría sentir mucho mejor.
+
+Mi estómago pide comida ya, ¿qué hay?
+
+Estoy con hambre, ¿algo de comida?
+
+Comer algo sería lo mejor ahora mismo.
+
+El hambre me está matando, ¿qué hacemos?
+
+¿Podemos comer ya? Tengo hambre.
+
+Necesito comer algo urgente, tengo hambre.
+
+Mi estómago está vacío, por favor, comida.
+
+El hambre me consume, necesito algo ya.
+
+Tengo hambre, ¿qué hay para comer hoy?
+
+Comer algo ahora mismo me haría feliz.
+
+Estoy muerto de hambre, ¿alguien tiene comida?
+
+Tengo mucha hambre, ¿puedo comer ya?
+
+El hambre no me deja en paz hoy.
+
+Comer algo ahora sería lo mejor.
+
+Tengo hambre, ¿qué comemos?
+
+El hambre me está afectando mucho, ¿qué hacemos?
+
+Comer sería lo ideal en este momento.
+
+Mi estómago está vacío, necesito algo de comida.
+
+Tengo hambre, quiero algo delicioso.
+
+Comer algo sería genial ahora mismo.
+
+Mi estómago pide comida, ¿ya comemos?
+
+Estoy con hambre, ¿qué hay para comer?
+
+Comer ahora sería un alivio.
+
+Tengo hambre, ¿qué hay para mí?
+
+Mi estómago está pidiendo comida urgentemente.
+
+El hambre me está matando, ¿comemos ya?
+
+Comer ahora me haría sentir bien.
+
+Tengo hambre, ¿qué podemos comer?
+
+Estoy con hambre, ¿qué se puede hacer?
+
+Comer algo rápido me vendría muy bien.
+
+Tengo hambre, ¿alguien tiene comida?
+
+Comer algo delicioso sería perfecto ahora.
+
+Mi estómago está vacío, ¿qué hay para comer?
+
+Estoy muerto de hambre, ¿qué comemos?
+
+Comer ahora me vendría perfecto.
+
+Tengo hambre, ¿podemos comer ya?
+
+Mi estómago pide comida, ¿qué hay?
+
+Comer algo sería maravilloso ahora.
+
+Tengo hambre, ¿qué hay para mí?
+
+Mi estómago está vacío, necesito comida ya.
+Tengo hambre, ¿qué hay para comer?
+
+Mi estómago está vacío, necesito algo de comer ya.
+
+¿Comemos ya? Estoy muriendo de hambre.
+
+Tengo hambre, ¿alguien tiene algo para comer?
+
+El hambre me está matando, necesito algo de comida.
+
+Qué hambre tengo, quiero algo delicioso.
+
+Estoy muerto de hambre, ¿qué comemos?
+
+Mi estómago está rugiendo, ¿qué hay para comer?
+
+Muero de hambre, por favor, algo de comer.
+
+Tengo hambre, ¿qué hay para satisfacerla?
+
+El hambre me consume, ¿ya comemos?
+
+¿A qué hora comemos? Tengo mucha hambre.
+
+Qué bien se ve eso, tengo hambre.
+
+Mi cuerpo pide comida ahora mismo, ¿qué tenemos?
+
+Estoy con hambre, ¿podemos comer ya?
+
+El hambre me tiene atrapado, necesito comida.
+
+Estoy hambriento, ¿qué hay para comer?
+
+Necesito algo para comer ya, el hambre me consume.
+
+Comer algo ahora sería perfecto para mí.
+
+Mi estómago está pidiendo comida con urgencia.
+
+El hambre no me deja descansar, necesito comida.
+
+Comer algo ahora sería un alivio.
+
+Tengo hambre, quiero algo sabroso y delicioso.
+
+El hambre me está matando, ¿qué tenemos para comer?
+
+Mi estómago ruge, ¿qué podemos comer?
+
+Estoy muy hambriento, necesito algo rápido para comer.
+
+Comer algo ya me haría sentir mucho mejor.
+
+Mi estómago está vacío, por favor, comida.
+
+Tengo hambre, ¿alguien tiene algo delicioso para compartir?
+
+El hambre me está atacando, necesito algo ahora mismo.
+
+Qué hambre tengo, quiero comer ya.
+
+Estoy con hambre, ¿qué tenemos para comer?
+
+Tengo hambre, ¿qué puedo comer?
+
+Comer ahora me vendría perfecto, mi estómago está vacío.
+
+Estoy hambriento, por favor, ¿algo para comer?
+
+Mi estómago está pidiendo comida, ¿qué tenemos?
+
+El hambre no me deja, ¿comemos ya?
+
+Tengo mucha hambre, necesito algo delicioso y rápido.
+
+Mi cuerpo pide comida urgentemente, ¿qué hacemos?
+
+Tengo hambre, ¿alguien tiene comida?
+
+Comer algo sería increíble ahora mismo.
+
+Mi estómago está vacío, necesito comida ya.
+
+El hambre me consume, ¿ya es hora de comer?
+
+Estoy muerto de hambre, ¿comemos algo?
+
+Tengo hambre, quiero algo rápido.
+
+Mi estómago está vacío, por favor, comida.
+
+Necesito comida, el hambre me está matando.
+
+Qué hambre tengo, ¿puedo comer ya?
+
+Comer algo ahora me aliviaría mucho.
+
+Tengo hambre, ¿qué tenemos para comer?
+
+Mi estómago ruge, necesito algo para comer.
+
+El hambre me está arrastrando, ¿qué hay para comer?
+
+Estoy hambriento, necesito algo sabroso ya.
+
+Tengo hambre, ¿qué podemos comer rápido?
+
+Mi estómago está vacío, ¿qué comemos ahora?
+
+Tengo hambre, quiero algo delicioso de inmediato.
+
+Comer algo sería perfecto ahora mismo.
+
+Mi estómago está pidiendo comida ya, ¿qué hay?
+
+Necesito algo de comida urgente.
+
+Estoy muerto de hambre, ¿qué comemos?
+
+Comer me haría sentir mejor ahora.
+
+Mi estómago está vacío, ¿comemos ya?
+
+Tengo hambre, ¿algo delicioso para mí?
+
+El hambre no para, necesito comida.
+
+Mi estómago ruge, ¿qué comemos?
+
+Tengo hambre, ¿podemos comer ya?
+
+Mi cuerpo pide comida urgente.
+
+Estoy con hambre, ¿qué tenemos para comer?
+
+Qué hambre tengo, quiero algo rico.
+
+Comer algo rápido me vendría bien ahora.
+
+Mi estómago está vacío, necesito comida ahora.
+
+Tengo hambre, ¿qué hay en la cocina?
+
+Comer algo ahora sería increíble, tengo hambre.
+
+Estoy con hambre, necesito algo rápido.
+
+Tengo hambre, quiero algo sabroso para comer.
+
+Mi estómago ruge fuerte, necesito comer ya.
+
+El hambre me está matando, ¿qué tenemos para comer?
+
+Tengo hambre, ¿podemos comer ya?
+
+Comer algo delicioso sería perfecto ahora mismo.
+
+Mi estómago está vacío, necesito algo de comer.
+
+Estoy con hambre, ¿qué tenemos para comer hoy?
+
+Tengo hambre, necesito algo delicioso ya.
+
+Comer sería lo mejor en este momento.
+
+Mi estómago me está pidiendo comida urgente.
+
+Tengo hambre, ¿alguien tiene comida para mí?
+
+Qué hambre tengo, necesito algo para comer.
+
+Comer algo rápido sería genial ahora.
+
+Estoy muerto de hambre, ¿comemos ya?
+
+Mi estómago está vacío, ¿qué podemos comer?
+
+El hambre me está atacando, necesito algo ahora.
+
+Tengo hambre, ¿qué podemos comer?
+
+Comer ahora sería perfecto, mi estómago está vacío.
+
+Tengo hambre, ¿puedo comer ya?
+
+El hambre me está consumiendo, ¿qué hay para comer?
+
+Mi estómago ruge, ¿qué hay de comida?
+
+Estoy con hambre, ¿puedo comer algo?
+
+Tengo hambre, ¿qué tenemos para comer ya?
+
+El hambre me consume, ¿qué comemos?
+
+Mi estómago me pide comida, ¿qué hay?
+
+Comer algo ahora me haría feliz.

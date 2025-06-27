@@ -1,0 +1,796 @@
+No estoy tan mal.
+
+Algo queda de fuerza.
+
+No es tan oscuro.
+
+Aún respiro sin rendirme.
+
+Podría ser peor.
+
+No caí del todo.
+
+Sigo aquí, de pie.
+
+Me cuesta, pero sigo.
+
+No perdí todo aún.
+
+A veces algo mejora.
+
+No todo es gris.
+
+Un poco resisto.
+
+Casi me rindo.
+
+Sigo, sin saber cómo.
+
+Apenas me sostengo.
+
+No estoy bien, pero…
+
+No todo está perdido.
+
+Me queda algo de fe.
+
+No siento tanto dolor.
+
+Estoy triste, pero respiro.
+
+Me sostengo como puedo.
+
+Hoy no es tan malo.
+
+No me rompí aún.
+
+Apenas siento tristeza.
+
+La esperanza es mínima.
+
+Hoy dolió un poco menos.
+
+No estoy tan vacío.
+
+Algo me empuja todavía.
+
+No del todo mal.
+
+Me cuesta, pero avanzo.
+
+Estoy mal, pero consciente.
+
+No tan decaído hoy.
+
+Sigo, aunque sin rumbo.
+
+No me solté aún.
+
+Dolor leve, pero constante.
+
+Casi sin energía emocional.
+
+Aún tengo media sonrisa.
+
+No del todo gris.
+
+Apenas tengo fuerza.
+
+Sigo, pero sin ganas.
+
+Un poco de ánimo.
+
+No perdí todo aún.
+
+La tristeza no ganó.
+
+Estoy a medias hoy.
+
+Algo me sostiene dentro.
+
+No tan roto hoy.
+
+Casi bien, pero no.
+
+Me aguanto como puedo.
+
+No lloré esta vez.
+
+No tan mal emocionalmente.
+
+Estoy presente, más o menos.
+
+Sigo con cierta estabilidad.
+
+No todo está oscuro.
+
+Hoy no me caí.
+
+Apenas tengo tristeza.
+
+Estoy mejor que ayer.
+
+No estoy feliz, tampoco mal.
+
+Me queda algo pequeño.
+
+Un poco me levanto.
+
+Triste, pero no vencido.
+
+Aún tengo pensamientos claros.
+
+No es tan negro.
+
+Algo de luz hay.
+
+Poco decaído, no roto.
+
+No me caí completamente.
+
+Dolor leve, pero constante.
+
+Emoción baja, pero presente.
+
+No me detuve hoy.
+
+Sin tanta tristeza interna.
+
+Me costó poco sonreír.
+
+No me aislé hoy.
+
+Algo sentí positivo.
+
+No estoy del todo perdido.
+
+Pensé menos cosas tristes.
+
+Hoy no dolió tanto.
+
+No desaparecí del todo.
+
+Me mostré un poco.
+
+Estuve medio presente hoy.
+
+No apagué del todo.
+
+Sigo respirando con esfuerzo.
+
+Me moví un poco.
+
+No lloré por todo.
+
+Pensé mejor que ayer.
+
+Hablé con alguien hoy.
+
+Escuché sin tanto ruido.
+
+Estuve atento un momento.
+
+No sentí tanto peso.
+
+Poco agobiado esta vez.
+
+Sentí algo de alivio.
+
+No me solté completamente.
+
+Me mantuve un poco.
+
+No dejé de intentar.
+
+Sigo a media luz.
+
+No estoy del todo mal.
+
+La sombra no cubre todo.
+
+Algo vibra dentro aún.
+
+La tristeza no domina.
+
+Poco quebrado esta vez.
+
+Algo en mí resiste.
+
+No es el fin hoy.
+No tan mal hoy.
+
+Sigo, pero sin ganas.
+
+Apenas me afecta.
+
+No es tan grave.
+
+Estoy, pero sin brillo.
+
+Poquito dolido, nada más.
+
+Con lo justo sigo.
+
+No me rindo aún.
+
+Algo me empuja todavía.
+
+Ni bien ni mal.
+
+Floto, pero no caigo.
+
+Poco ánimo, pero resisto.
+
+Sin fuerzas, pero despierto.
+
+Sigo sin mucha energía.
+
+No tan vacío hoy.
+
+Apenas siento tristeza.
+
+Hoy menos gris.
+
+Me cuesta, pero avanzo.
+
+Con lo mínimo sobrevivo.
+
+Algo de mí queda.
+
+No tan mal esta vez.
+
+Hoy dolió un poco menos.
+
+Respiro, sin emoción.
+
+Nada me entusiasma mucho.
+
+Poquita esperanza queda.
+
+No me hundo todavía.
+
+Estoy medio apagado.
+
+Camino sin dirección.
+
+Sigo con pocas ganas.
+
+No hay mucho dentro.
+
+Me cuesta levantarme.
+
+Apenas puedo seguir.
+
+Hoy no tanto dolor.
+
+Tristeza leve, constante.
+
+Poco ánimo, mucha rutina.
+
+No me motiva nada.
+
+Me sostengo sin fuerza.
+
+No tan roto aún.
+
+Estoy, pero no completo.
+
+Todo pesa un poquito.
+
+Menos mal que sigo.
+
+Algo me mantiene vivo.
+
+No hay emoción fuerte.
+
+Pocas ganas, poca luz.
+
+Hoy no me quebré.
+
+Me duele poquito hoy.
+
+Me esfuerzo, sin resultado.
+
+No me rendí todavía.
+
+Sobrevivo, sin mucho más.
+
+Estoy, pero no estoy.
+
+Apenas tengo energía.
+
+La tristeza no pesa tanto.
+
+Despierto sin motivación.
+
+Solo paso el día.
+
+Hoy me esfuerzo menos.
+
+No hice casi nada.
+
+Poca chispa interna.
+
+Algo me frena siempre.
+
+No siento nada fuerte.
+
+Me apago de a poco.
+
+Sigo, sin alegría.
+
+Nada me emociona ya.
+
+Hoy más lento que ayer.
+
+Casi no reaccioné hoy.
+
+Me levanto por rutina.
+
+No siento mucha tristeza.
+
+Estoy sin estar.
+
+Mi ánimo no sube.
+
+No encuentro motivación.
+
+Me arrastro emocionalmente.
+
+Sigo igual de apagado.
+
+Nada nuevo me afecta.
+
+Poco entusiasmo interno.
+
+Vivo en pausa constante.
+
+Hoy todo fue plano.
+
+Me sentí sin energía.
+
+Apenas tengo palabras.
+
+Todo me cuesta poquito.
+
+Apenas siento cosas.
+
+Tristeza leve, pero constante.
+
+No me sorprende nada.
+
+Todo me da igual.
+
+Casi nada me mueve.
+
+Me mantengo, sin saber.
+
+Poco ánimo, poca respuesta.
+
+Nada me saca emoción.
+
+Poquita tristeza por dentro.
+
+No siento conexión hoy.
+
+No fue un buen día.
+
+Sin expectativas, otra vez.
+
+Me sostengo, sin impulso.
+
+No estoy tan mal.
+
+Hoy no me hundí.
+
+Apatía casi total.
+
+Me apagué un poco.
+
+No siento tanta presión.
+
+Estoy cansado emocionalmente.
+
+Me falta algo siempre.
+
+Ni triste, ni feliz.
+
+Casi nada me afecta.
+Hoy no es tan malo, sigo adelante.
+
+Paso el día sin mucho entusiasmo, pero sigo.
+
+No hay mucho en mí, pero resisto.
+
+Apenas siento algo, pero respiro.
+
+Me cuesta, pero sigo caminando.
+
+Hoy no fue tan pesado, aunque sigue lento.
+
+Estoy apagado, pero no caído.
+
+No me derrumbé, pero tampoco brillo.
+
+Con pocas ganas, pero resisto.
+
+Sin mucha emoción, pero sigo aquí.
+
+La esperanza es poca, pero todavía queda algo.
+
+Sin expectativas, pero con fuerzas mínimas.
+
+Todo es lento, pero sigo respirando.
+
+Vivo sin entusiasmo, pero al menos vivo.
+
+Nada me emociona, pero sigo.
+
+A veces me caigo, pero me levanto.
+
+Tristeza leve, aunque no me tumba.
+
+Sigo sin saber qué hacer, pero sigo.
+
+La luz es tenue, pero sigue brillando.
+
+Hoy no estuve bien, pero no estuve peor.
+
+Todo es gris, pero aún resisto.
+
+No me derrumbo, aunque sigo vacío.
+
+No hay mucho en mí, pero sigo.
+
+No estoy bien, pero no estoy mal.
+
+Todo está lento, pero sigo de pie.
+
+Me siento apagado, pero sigo andando.
+
+Estoy apagado, pero sigo respirando.
+
+Hoy no hay alegría, pero sigo caminando.
+
+La tristeza es pequeña, no me aplasta.
+
+Estoy cansado, pero no roto.
+
+No me siento feliz, pero tampoco triste.
+
+Vivo sin brillo, pero sigo.
+
+Todo me cuesta, pero no me detengo.
+
+No tengo ganas, pero sigo.
+
+A veces siento que no puedo, pero sigo.
+
+Estoy vacío, pero sigo caminando.
+
+No estoy bien, pero al menos estoy.
+
+No tengo fuerzas, pero sigo avanzando.
+
+Hoy estuve apagado, pero aún de pie.
+
+Sin emoción, pero en pie aún.
+
+Siento poco, pero sigo vivo.
+
+No sé qué hago, pero sigo aquí.
+
+Estoy agotado, pero sigo en marcha.
+
+Triste, pero no derrotado.
+
+No tengo mucho, pero sigo.
+
+Hoy no fue perfecto, pero sobreviví.
+
+La energía escasea, pero sigo luchando.
+
+No estoy feliz, pero sigo andando.
+
+Mi ánimo es bajo, pero sigo.
+
+No hay nada que me motive, pero resisto.
+
+No siento nada fuerte, pero estoy aquí.
+
+Estoy apagado, pero sigo caminando.
+
+Todo es lento, pero sigo de pie.
+
+La tristeza no me derrumba, sigo.
+
+No hay emoción, pero no me caigo.
+
+Todo está difícil, pero sigo respirando.
+
+No estoy bien, pero estoy aquí.
+
+Sigo con poco, pero sigo.
+
+No hay mucho en mí, pero sigo.
+
+Siento poco, pero estoy en pie.
+
+El día fue gris, pero resistí.
+
+Estoy cansado, pero sigo en marcha.
+
+Poco entusiasmo, pero sigo caminando.
+
+Estoy vacío, pero resisto.
+
+No hay brillo en mí, pero sigo.
+
+Poco que esperar, pero sigo.
+
+Vivo en pausa, pero no me rindo.
+
+Hoy fue cansado, pero no me caí.
+
+Sin energía, pero aquí sigo.
+
+Hoy fue gris, pero de pie.
+
+No encuentro motivación, pero sigo.
+
+A veces caigo, pero sigo.
+
+Hoy no es el mejor, pero sigo.
+
+Estoy lento, pero sigo adelante.
+
+No hay chispa, pero sigo aquí.
+
+Hoy no fue brillante, pero estuve presente.
+
+La energía se va, pero no me caigo.
+
+Tristeza ligera, pero sigo de pie.
+
+No hay luz, pero sigo caminando.
+
+La fuerza se va, pero sigo.
+
+Me cuesta, pero sigo luchando.
+
+Todo me pesa, pero sigo.
+
+Estoy vacío, pero de pie.
+
+No tengo fuerzas, pero sigo respirando.
+
+Estoy cansado, pero sigo avanzando.
+
+No hay vida hoy, pero sigo.
+
+Vivo sin brillo, pero no me rindo.
+
+Hoy no brilló nada, pero sigo.
+
+Estoy apagado, pero sigo de pie.
+
+No encuentro motivación, pero no caigo.
+
+Hoy fue gris, pero sobreviví.
+
+Hoy no sé qué hacer, pero sigo.
+
+Estoy agotado, pero sigo aquí.
+
+No hay mucho que esperar, pero sigo.
+
+Estoy aquí, aunque no esté bien.
+
+Vivo sin emoción, pero sigo.
+
+No hay motivación, pero sigo caminando.
+
+Hoy no brilla, pero sigo.
+
+Vivo sin prisa, pero sigo.
+
+Hoy fue lento, pero sobreviví.
+Hoy no me siento bien, pero sigo de pie.
+
+Aunque las cosas no mejoren, sigo avanzando, aunque lento.
+
+Me siento cansado, pero no derrotado, sigo caminando.
+
+No tengo mucha motivación, pero sigo aquí, resistiendo.
+
+La esperanza es poca, pero algo queda.
+
+Estoy agotado, pero me mantengo en pie.
+
+No todo es malo, aunque me cuesta verlo.
+
+Hoy fue un día difícil, pero sigo aquí.
+
+No estoy al cien, pero sigo, es lo importante.
+
+A veces siento poco, pero sigo adelante.
+
+Hoy no brilla, pero sigo caminando.
+
+Mi ánimo está bajo, pero no caído.
+
+No sé qué hacer, pero sigo buscando una salida.
+
+Todo está oscuro, pero al menos sigo de pie.
+
+No todo es claro, pero sigo aquí, resistiendo.
+
+Hoy no fue fácil, pero lo logré, aunque cansado.
+
+La tristeza está ahí, pero sigo luchando.
+
+La vida sigue, aunque sin muchas fuerzas.
+
+No hay mucha esperanza, pero todavía hay un poco.
+
+Las cosas no cambian rápido, pero sigo luchando.
+
+Hoy no fue un gran día, pero sobreviví.
+
+Sigo aquí, aunque sin ganas, sigo.
+
+Estoy cansado, pero sigo buscando una razón.
+
+Mi alma está apagada, pero sigo de pie.
+
+La energía no es mucha, pero no me rindo.
+
+La esperanza se desvanece, pero algo sigue.
+
+Me siento vacío, pero aún tengo algo de fuerzas.
+
+No es el mejor momento, pero sigo.
+
+La luz es tenue, pero aún sigue brillando.
+
+Hoy no fue perfecto, pero sigo aquí.
+
+La oscuridad me rodea, pero no caí.
+
+La motivación es escasa, pero aún sigo en marcha.
+
+Me siento cansado, pero no derrotado.
+
+Estoy agotado, pero mi cuerpo sigue caminando.
+
+La tristeza no me vence, sigo adelante.
+
+No hay entusiasmo, pero sigo resistiendo.
+
+Mi ánimo está bajo, pero no todo está perdido.
+
+No hay mucha luz, pero sigo buscando.
+
+Estoy cansado, pero no he dejado de avanzar.
+
+No sé qué esperar, pero sigo aquí.
+
+El camino es difícil, pero sigo dando pasos.
+
+No me siento al cien, pero sigo intentando.
+
+Mi mente está cansada, pero mi cuerpo avanza.
+
+El día fue pesado, pero sigo en pie.
+
+Me siento débil, pero sigo caminando.
+
+No es el mejor día, pero sigo aquí.
+
+Hoy fue complicado, pero sigo en pie.
+
+La fatiga me consume, pero sigo resistiendo.
+
+Aunque esté cansado, sigo con paso firme.
+
+No todo está bien, pero sigo en pie.
+
+El ánimo no es alto, pero sigo en marcha.
+
+Hoy fue lento, pero sigo caminando.
+
+Estoy agotado, pero no me caigo.
+
+A veces me siento perdido, pero sigo buscando.
+
+Las fuerzas escasean, pero sigo luchando.
+
+Hoy no fue brillante, pero sobreviví.
+
+No estoy bien, pero sigo aquí.
+
+Aunque poco motivado, sigo dando lo mejor.
+
+La tristeza me invade, pero no caigo.
+
+Hoy fue difícil, pero sigo aquí, de pie.
+
+No siento mucho, pero sigo respirando.
+
+No sé qué hacer, pero sigo buscando respuestas.
+
+Estoy vacío, pero aún resisto.
+
+La vida sigue, aunque esté agotado.
+
+Hoy no es un buen día, pero sigo.
+
+No tengo energía, pero sigo buscando algo de motivación.
+
+Sigo aquí, aunque cansado, sigo luchando.
+
+No es un buen momento, pero resisto.
+
+Mi alma está cansada, pero sigo caminando.
+
+Hoy no fue brillante, pero sobreviví.
+
+Sigo adelante, aunque sin fuerzas, pero sigo.
+
+No todo está bien, pero sigo.
+
+La motivación está baja, pero sigo dando pasos.
+
+No es un buen día, pero resisto.
+
+Hoy fue difícil, pero sigo de pie.
+
+Aunque cansado, sigo luchando por algo mejor.
+
+La luz es débil, pero sigo caminando.
+
+Estoy agotado, pero sigo resistiendo.
+
+Hoy no fue un buen día, pero resisto.
+
+Las cosas están oscuras, pero sigo avanzando.
+
+Estoy cansado, pero sigo buscando fuerzas.
+
+No tengo mucha energía, pero sigo en pie.
+
+Aunque decaído, sigo caminando hacia adelante.
+
+No hay mucha esperanza, pero sigo respirando.
+
+Hoy me siento agotado, pero no derrotado.
+
+Las fuerzas flaquean, pero sigo luchando.
+
+No es fácil, pero sigo caminando.
+
+Hoy no brilló, pero sigo de pie.
+
+Estoy cansado, pero sigo buscando algo mejor.
+
+Hoy me siento sin energía, pero sigo.
+
+No todo es claro, pero sigo aquí.
+
+Mi ánimo está bajo, pero sigo caminando.
+
+Aunque agotado, sigo en pie.
+
+Sigo aquí, aunque sin mucho brillo.
+
+El día fue pesado, pero sigo de pie.
+
+No es fácil, pero sigo luchando por un mañana.
+
+Aunque decaído, sigo respirando.
+
+Hoy fue cansado, pero sigo adelante.
+
+Mi energía es poca, pero sigo caminando.
+
+No estoy bien, pero sigo buscando algo de luz.

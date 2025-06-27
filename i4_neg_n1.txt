@@ -1,0 +1,796 @@
+Solo un poco cansado
+
+Energía a media marcha
+
+Estoy un poco lento
+
+Aún me queda algo
+
+Puedo seguir un rato
+
+Un poco de agotamiento
+
+No estoy tan mal
+
+Un descanso y sigo
+
+No estoy tan agotado
+
+Cansancio leve, puedo más
+
+Estoy bien, solo un poco
+
+Un poco lento hoy
+
+No estoy tan cansado
+
+Aún puedo seguir adelante
+
+Bastante descansado para seguir
+
+Poquito cansancio, nada grave
+
+Tengo algo de energía
+
+Solo un poco agotado
+
+No es tanto cansancio
+
+Puedo seguir un poco
+
+Cansado, pero no mucho
+
+Energía casi intacta
+
+No me siento agotado
+
+Apenas un poco lento
+
+Me queda algo de energía
+
+Todo bien, un poco lento
+
+Puedo con un poco más
+
+Sin mucho cansancio ahora
+
+Solo algo de cansancio
+
+No me siento agotado
+
+Aún puedo seguir caminando
+
+No es para tanto
+
+No estoy demasiado cansado
+
+Me siento bastante bien
+
+Sin mucha fatiga ahora
+
+Aún con algo de energía
+
+Un poco cansado, nada grave
+
+Sigo con algo de energía
+
+No necesito descansar aún
+
+No estoy exhausto, tranquilo
+
+Bastante energía para continuar
+
+Solo un poquito lento
+
+Estoy bien, sin gran cansancio
+
+Puedo seguir con calma
+
+No siento agotamiento
+
+Energía en reserva aún
+
+Puedo continuar sin problema
+
+Sin grandes niveles de cansancio
+
+Aún puedo moverme bien
+
+Solo cansancio leve hoy
+
+Estoy bien, no agotado
+
+No me siento tan lento
+
+Cansancio mínimo, sigo bien
+
+Aún con energías para seguir
+
+No necesito parar ahora
+
+No estoy exhausto en absoluto
+
+Un poquito cansado, nada grave
+
+Apenas cansado, sigo bien
+
+Poco cansado, mucha energía
+
+No siento falta de fuerzas
+
+Todo en orden por ahora
+
+Un poco lento, nada más
+
+No hay gran cansancio
+
+No me siento débil
+
+Aún con fuerzas para más
+
+Cansancio leve, nada serio
+
+Puedo continuar por ahora
+
+No siento gran fatiga
+
+No estoy agotado, tranquilo
+
+Poco cansancio, sigo fuerte
+
+No hay fatiga acumulada
+
+Sigo con algo de energía
+
+No me siento agotado
+
+Un poco de cansancio, nada grave
+
+Puedo continuar sin problema
+
+Energía baja, pero suficiente
+
+No necesito descansar aún
+
+Estoy bien, no muy cansado
+
+Un poco lento, sigo bien
+
+No siento gran agotamiento
+
+Cansancio moderado, sigo adelante
+
+Aún con energía para seguir
+
+Sin mucha fatiga ahora
+
+Estoy tranquilo, sin agotamiento
+
+No siento el agotamiento
+
+Puedo continuar sin parar
+
+Poco cansado, mucho por hacer
+
+Estoy bien, sin mucha fatiga
+
+No estoy totalmente agotado
+
+Me siento tranquilo y ligero
+
+Puedo seguir sin dificultad
+
+No hay gran esfuerzo
+
+No me siento agotado
+
+Puedo continuar con facilidad
+
+Poco cansancio, bastante energía
+
+Estoy bien, solo algo lento
+
+No me siento demasiado cansado
+
+Puedo seguir sin problemas
+
+Energía moderada, pero suficiente
+
+No hay cansancio significativo
+Energía bajita, pero sigo
+
+Apenas algo de cansancio
+
+Un poco lento, nada grave
+
+Cansancio leve, sigo adelante
+
+Poquito cansado, sigo bien
+
+Aún con algo de energía
+
+Todo bajo control, sigo
+
+Poco cansancio, muchas ganas
+
+Aún puedo seguir caminando
+
+Sin agotamiento, solo lento
+
+Me queda algo de energía
+
+No estoy tan cansado
+
+Sigo adelante, sin cansancio
+
+Poco cansancio, mucho por hacer
+
+Todo bien, poco cansado
+
+Apenas fatigado, sigo fuerte
+
+No siento gran cansancio
+
+Energía suficiente para continuar
+
+Sigo, sin mucho esfuerzo
+
+Aún me queda energía
+
+Lento, pero sigo adelante
+
+Sin cansancio, sigo trabajando
+
+Estoy bien, nada grave
+
+Poco agotado, mucha energía
+
+No estoy tan lento
+
+Energía moderada, todo ok
+
+Un poco cansado, nada más
+
+Sigo sin dificultad alguna
+
+No hay gran agotamiento
+
+Cansancio mínimo, voy bien
+
+Apenas cansado, sigo activo
+
+Poco agotamiento, sigo caminando
+
+Sin gran fatiga hoy
+
+No siento cansancio profundo
+
+Un poco lento, pero bien
+
+Todo tranquilo, sigo trabajando
+
+No hay cansancio acumulado
+
+Energía baja, sigo adelante
+
+Aún con algo de fuerzas
+
+Sin agotamiento, sigo con calma
+
+Apenas fatigado, sigo firme
+
+Todo bajo control, sigo
+
+Aún tengo algo de energía
+
+Sin agotamiento, solo lento
+
+Un poco cansado, pero puedo
+
+Energía moderada, sigo bien
+
+Estoy bien, solo lento
+
+Puedo seguir, sin problema
+
+No me siento agotado
+
+Todo está bien, sigo
+
+No estoy tan agotado
+
+Poco cansado, todo bien
+
+Sigo tranquilo, no agotado
+
+No hay gran fatiga
+
+Lento, pero sigo sin parar
+
+Poco cansancio, mucho por hacer
+
+Todo bien, sigo trabajando
+
+Cansancio moderado, todo ok
+
+No hay cansancio excesivo
+
+Sigo con algo de energía
+
+Aún puedo seguir caminando
+
+No estoy exhausto, tranquilo
+
+Sigo adelante, con calma
+
+Poco cansancio, todo tranquilo
+
+Sigo sin dificultad alguna
+
+Sin gran agotamiento, todo ok
+
+No estoy agotado, todo bien
+
+Energía leve, pero suficiente
+
+Poco cansado, mucha energía
+
+Sin agotamiento, todo bajo control
+
+No hay cansancio profundo
+
+Estoy bien, solo algo lento
+
+Cansancio leve, sigo en pie
+
+Poquito cansado, sigo adelante
+
+No siento gran agotamiento
+
+Todo bajo control, sigo caminando
+
+Puedo seguir, no hay cansancio
+
+Cansancio mínimo, sigo trabajando
+
+Apenas fatigado, sigo bien
+
+Poco cansado, no hay problema
+
+Todo tranquilo, sigo trabajando
+
+Energía suficiente para continuar
+
+Un poco lento, todo bien
+
+Poco agotado, pero sigo
+
+Energía bajita, pero sigo
+
+No estoy cansado en exceso
+
+No siento fatiga hoy
+
+Puedo seguir sin dificultad
+
+Lento, pero sigo adelante
+
+Estoy bien, algo fatigado
+
+Poco cansado, sigo tranquilo
+
+No hay gran esfuerzo
+
+No estoy agotado, todo ok
+
+Estoy bien, sigo caminando
+
+Cansancio moderado, sigo trabajando
+
+Puedo seguir, no hay agotamiento
+
+No hay gran cansancio
+
+Poco cansancio, mucho por hacer
+
+Estoy bien, sigo sin parar
+
+No estoy agotado, sigo bien
+Cansancio leve, sigo adelante sin problema.
+
+Un poco lento, pero nada grave.
+
+Apenas algo de agotamiento, sigo con calma.
+
+Energía moderada, pero todo está bien.
+
+Me siento bien, no muy cansado.
+
+No hay gran cansancio, sigo adelante.
+
+Poco cansado, puedo seguir sin esfuerzo.
+
+Lento, pero sigo funcionando bien.
+
+Un poco cansado, pero nada serio.
+
+Energía baja, pero no me agota.
+
+Estoy bien, apenas cansado.
+
+Poco cansancio, mucha energía para continuar.
+
+No me siento agotado, todo tranquilo.
+
+Poco agotado, mucho por hacer.
+
+Aún con algo de energía, sigo bien.
+
+No estoy cansado, todo está bajo control.
+
+Cansancio mínimo, sigo adelante sin problemas.
+
+Energía a media marcha, pero todo sigue bien.
+
+Estoy tranquilo, poco cansado.
+
+No hay gran fatiga, todo en orden.
+
+Poco cansancio, sigo con algo de energía.
+
+Aún me queda algo de energía.
+
+Estoy bien, no siento agotamiento.
+
+No tengo mucho cansancio, sigo tranquilo.
+
+Cansancio bajo, suficiente para seguir.
+
+Apenas fatigado, sigo trabajando sin problemas.
+
+No estoy agotado, sigo con calma.
+
+Poco cansado, mucho por hacer.
+
+Energía suficiente para continuar sin dificultad.
+
+Todo bajo control, apenas cansado.
+
+Sigo sin problema, no hay agotamiento.
+
+Estoy bien, no siento gran cansancio.
+
+Poco agotado, pero sigo tranquilo.
+
+No me siento tan cansado, sigo bien.
+
+Estoy funcionando bien, sin gran agotamiento.
+
+Energía bajita, pero suficiente para seguir.
+
+Poco cansancio, todo está bien.
+
+No estoy tan cansado, sigo adelante.
+
+Poco cansado, pero bien.
+
+Aún tengo energía para seguir un poco.
+
+Todo tranquilo, poco agotamiento.
+
+No hay cansancio, todo fluye bien.
+
+Energía moderada, pero sigo sin parar.
+
+No siento agotamiento, sigo trabajando tranquilo.
+
+Poco cansado, puedo continuar.
+
+Estoy bien, energía suficiente para seguir.
+
+Poco agotado, sigo sin esfuerzo.
+
+Todo bajo control, poco cansancio.
+
+Poco cansado, sigo tranquilo.
+
+Estoy bien, sin gran fatiga.
+
+Poco cansancio, energía suficiente para seguir.
+
+No hay agotamiento, sigo con calma.
+
+Energía leve, pero aún puedo.
+
+No estoy tan fatigado, todo bien.
+
+Poco cansado, sigo adelante sin esfuerzo.
+
+Todo bajo control, sin cansancio.
+
+Un poco lento, pero sigo adelante.
+
+No hay gran cansancio, sigo tranquilo.
+
+Poco cansancio, pero sin parar.
+
+Cansancio bajo, sigo trabajando sin dificultad.
+
+Energía moderada, pero aún puedo.
+
+No siento agotamiento, sigo tranquilo.
+
+Poco cansado, todo fluye bien.
+
+Sigo bien, sin gran agotamiento.
+
+Energía suficiente, sigo trabajando tranquilo.
+
+Poco cansado, sigo con energía.
+
+No siento gran fatiga, todo tranquilo.
+
+Poco agotado, sigo funcionando.
+
+Energía baja, pero sigo adelante.
+
+Sigo bien, sin cansancio profundo.
+
+No me siento agotado, sigo sin esfuerzo.
+
+Poco cansado, mucho por hacer.
+
+No tengo gran cansancio, sigo tranquilo.
+
+Poco cansado, no hay problema.
+
+Aún con algo de energía, todo bien.
+
+No siento cansancio, todo está bien.
+
+Poco cansado, sigo trabajando sin problemas.
+
+No me siento agotado, todo en orden.
+
+Poco cansancio, puedo continuar sin dificultad.
+
+Estoy bien, no hay gran fatiga.
+
+Cansancio bajo, pero suficiente para continuar.
+
+Poco cansado, sigo sin pausa.
+
+No me siento tan agotado, sigo.
+
+Energía suficiente, sin cansancio profundo.
+
+Poco cansado, pero bien.
+
+No estoy agotado, sigo con calma.
+
+Cansancio bajo, todo sigue tranquilo.
+
+Poco cansado, sigo sin detenerme.
+
+No siento agotamiento, todo está bien.
+
+Sigo adelante, poco cansado.
+
+No hay gran agotamiento, sigo bien.
+
+Poco cansado, energía suficiente.
+
+No estoy cansado, todo fluye bien.
+
+Poco agotado, sigo adelante.
+
+Cansancio mínimo, sigo trabajando tranquilo.
+
+No me siento agotado, sigo con calma.
+
+Poco cansancio, todo está bien.
+
+Energía moderada, pero sigo adelante.
+
+Poco agotado, puedo seguir tranquilo.
+
+No siento gran cansancio, sigo adelante.
+Apenas cansado, sigo con energía suficiente para continuar.
+
+Estoy bien, no siento agotamiento, todo bajo control.
+
+Cansancio leve, pero sigo adelante sin problema.
+
+Poco agotado, sigo tranquilo y con calma.
+
+No me siento agotado, todo está bien.
+
+Puedo continuar, solo un poco de fatiga.
+
+Poco cansado, puedo seguir con tranquilidad.
+
+No hay gran agotamiento, sigo adelante sin esfuerzo.
+
+Apenas fatigado, sigo trabajando tranquilo.
+
+Cansancio mínimo, sigo con energía para lo que venga.
+
+Estoy tranquilo, sin agotamiento ni cansancio.
+
+Poco cansado, pero aún con fuerzas.
+
+Energía moderada, pero sigo sin problema.
+
+No estoy exhausto, todo sigue bien.
+
+Un poco lento, pero sigo funcionando.
+
+Estoy bien, no siento gran cansancio.
+
+Poco cansado, pero sigo caminando sin dificultad.
+
+No hay fatiga profunda, sigo tranquilo.
+
+Cansancio leve, puedo continuar sin parar.
+
+Un poco cansado, pero nada serio.
+
+Energía bajita, pero aún puedo seguir.
+
+No me siento tan agotado, sigo bien.
+
+Sigo con calma, sin cansancio significativo.
+
+Poco cansado, pero con ganas de seguir.
+
+Estoy bien, solo un poco cansado.
+
+Cansancio bajo, todo está bien.
+
+Sigo tranquilo, sin gran agotamiento.
+
+No estoy tan fatigado, sigo con energía.
+
+Energía baja, pero suficiente para seguir adelante.
+
+Cansancio mínimo, no hay problema.
+
+Poco cansado, mucho por hacer.
+
+No estoy agotado, sigo tranquilo.
+
+Puedo seguir, sin agotamiento ni fatiga.
+
+Poco cansado, no hay dificultad para continuar.
+
+Sigo bien, sin gran esfuerzo.
+
+No me siento cansado, todo sigue fluido.
+
+Un poco lento, pero sigo sin parar.
+
+Puedo continuar, sólo un poco de fatiga.
+
+Todo tranquilo, no estoy agotado.
+
+Poco cansado, sigo adelante sin problemas.
+
+Cansancio bajo, todo va bien.
+
+Aún tengo algo de energía para seguir.
+
+No hay gran cansancio, sigo sin esfuerzo.
+
+Poco cansado, pero sigo funcionando sin dificultad.
+
+No siento gran fatiga, sigo tranquilo.
+
+Puedo seguir sin problemas, no estoy agotado.
+
+Poco cansado, sigo con calma.
+
+Energía suficiente para continuar, no hay gran agotamiento.
+
+No siento fatiga, sigo adelante.
+
+Poco cansado, todo bajo control.
+
+Estoy tranquilo, sin agotamiento ni fatiga.
+
+Cansancio mínimo, pero sigo en pie.
+
+Energía baja, pero suficiente para continuar.
+
+Poco cansado, sigo trabajando sin pausa.
+
+No estoy agotado, solo algo lento.
+
+Puedo continuar con tranquilidad, sin gran cansancio.
+
+Poco cansado, pero sigo con energía.
+
+Energía suficiente, sin agotamiento profundo.
+
+No hay gran cansancio, sigo adelante.
+
+Poco cansado, sigo sin dificultad.
+
+No me siento fatigado, sigo funcionando.
+
+Poco agotado, pero sigo bien.
+
+No estoy exhausto, todo va bien.
+
+Sigo tranquilo, sin gran cansancio.
+
+Poco cansado, sigo sin detenerme.
+
+No tengo gran fatiga, sigo con calma.
+
+Sigo bien, sin cansancio significativo.
+
+Energía baja, pero aún puedo.
+
+Poco cansado, sigo caminando sin problemas.
+
+No estoy agotado, solo un poco lento.
+
+Energía moderada, sigo adelante.
+
+Poco cansado, sigo sin dificultades.
+
+No siento agotamiento, todo fluye bien.
+
+Sigo funcionando bien, sin cansancio profundo.
+
+Poco cansado, sigo tranquilo.
+
+No hay gran fatiga, sigo bien.
+
+Puedo continuar, sólo algo fatigado.
+
+Poco agotado, sigo adelante sin problema.
+
+Sigo bien, sin gran cansancio.
+
+Energía baja, pero sigo con calma.
+
+Poco cansado, pero con ganas de seguir.
+
+Todo está bien, sigo sin esfuerzo.
+
+Cansancio bajo, pero sigo con energía.
+
+Poco cansado, sigo adelante sin dificultades.
+
+Sigo con energía, no hay agotamiento.
+
+Estoy tranquilo, sin gran fatiga.
+
+Poco cansado, sigo trabajando sin pausa.
+
+No siento gran agotamiento, sigo bien.
+
+Cansancio leve, sigo adelante.
+
+Energía suficiente para continuar, todo va bien.
+
+Poco cansado, mucho por hacer.
+
+No siento agotamiento, todo sigue tranquilo.
+
+Poco cansado, sigo sin dificultad.
+
+Energía moderada, pero suficiente para seguir.
+
+Poco cansado, todo fluye bien.
+
+Sigo tranquilo, no siento agotamiento.
+
+Poco cansado, pero sin detenerme.
+
+Puedo seguir, sólo algo fatigado.
+
+Cansancio bajo, todo está bien.
+
+Poco cansado, pero con energía para continuar.

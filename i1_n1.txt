@@ -1,0 +1,796 @@
+No me interesa esto.
+
+¿Realmente tengo que hacerlo?
+
+Todo me parece aburrido.
+
+No tengo ganas de hacerlo.
+
+Me siento desconectado de todo.
+
+Nada me motiva hoy.
+
+Lo hago por obligación.
+
+No encuentro sentido a esto.
+
+¿Para qué esforzarme más?
+
+No disfruto hacer esto.
+
+Esto me parece irrelevante.
+
+No me importa hacerlo.
+
+No siento entusiasmo.
+
+Ni siquiera quiero intentarlo.
+
+¿Por qué seguir intentándolo?
+
+Nada me atrae hoy.
+
+No encuentro placer en esto.
+
+No tengo energía para eso.
+
+Esto no me interesa.
+
+Me siento apático hoy.
+
+Todo me parece tedioso.
+
+No tengo motivación alguna.
+
+¿Qué sentido tiene esto?
+
+No me entusiasma en absoluto.
+
+Esto no me emociona.
+
+¿Para qué seguir intentándolo?
+
+No quiero hacer nada.
+
+Siento que no vale la pena.
+
+Hoy no tengo fuerzas.
+
+No tengo ganas de nada.
+
+Esto no me llena.
+
+No le encuentro diversión.
+
+No me llama la atención.
+
+¿Por qué hacer esto?
+
+Todo me parece monótono.
+
+No siento ningún interés.
+
+No me inspira nada.
+
+¿Vale la pena esforzarse?
+
+Todo se siente vacío.
+
+No quiero continuar hoy.
+
+Me siento indiferente ahora.
+
+No hay nada emocionante aquí.
+
+Me siento desconectado de todo.
+
+Esto no me emociona.
+
+No me importa el resultado.
+
+Me siento muy desmotivado.
+
+Nada me entusiasma.
+
+No me interesa el esfuerzo.
+
+Esto no tiene propósito.
+
+Siento que todo es igual.
+
+No estoy disfrutando nada.
+
+La motivación me falta.
+
+No tengo deseos de avanzar.
+
+Siento que no tiene sentido.
+
+Nada me genera emoción.
+
+Me siento vacío por dentro.
+
+Esto no me conecta.
+
+Todo me resulta aburrido.
+
+No estoy motivado hoy.
+
+No me interesa lo que pasa.
+
+No encuentro nada de valor.
+
+Me siento desinteresado por todo.
+
+No encuentro razón para continuar.
+
+No tengo impulso alguno.
+
+Esto no me impulsa.
+
+No encuentro satisfacción en esto.
+
+No me llama la atención nada.
+
+Me cuesta involucrarme en esto.
+
+No tengo ganas de más.
+
+Todo me parece monótono.
+
+No me interesa progresar.
+
+No quiero seguir así.
+
+No hay diversión en esto.
+
+No siento conexión con nada.
+
+No encuentro inspiración alguna.
+
+Esto no me mantiene interesado.
+
+Me siento desconectado de todo.
+
+Esto no me enciende.
+
+Nada me sorprende hoy.
+
+Me siento desganado por completo.
+
+No tengo energía para esto.
+
+No quiero seguir haciendo esto.
+
+No encuentro satisfacción en nada.
+
+Me siento aburrido constantemente.
+
+No estoy disfrutando este momento.
+
+No me siento motivado.
+
+No quiero avanzar ahora.
+
+Todo me resulta plano.
+
+Nada de esto me interesa.
+
+No encuentro sentido a esto.
+
+No me atrae lo más mínimo.
+
+Esto no tiene gracia.
+
+No le veo el propósito.
+
+No encuentro motivación en esto.
+
+No me excita hacer esto.
+
+No tengo ningún interés.
+
+Todo es demasiado aburrido.
+
+Esto no despierta mi curiosidad.
+
+No tengo ganas de nada.
+
+Siento que no avanzo.
+No me interesa nada.
+
+No tengo ganas hoy.
+
+Esto no me motiva.
+
+Todo me parece aburrido.
+
+Nada me entusiasma hoy.
+
+No le encuentro sentido.
+
+No me apetece hacer esto.
+
+No quiero hacer nada.
+
+Esto no me atrae.
+
+No tengo ganas de intentarlo.
+
+No disfruto haciendo esto.
+
+No me llama la atención.
+
+No encuentro placer en eso.
+
+No me interesa el esfuerzo.
+
+Todo se siente vacío.
+
+Esto no me emociona.
+
+¿Vale la pena seguir?
+
+No tengo energía para eso.
+
+No me motiva el resultado.
+
+No siento entusiasmo.
+
+No tengo fuerzas para eso.
+
+No me inspira nada.
+
+Todo me parece tedioso.
+
+No quiero seguir intentando.
+
+No tengo interés en eso.
+
+Esto me aburre demasiado.
+
+No le veo utilidad.
+
+No me divierte hacer esto.
+
+Siento que no avanza.
+
+Esto no me engancha.
+
+No quiero seguir aquí.
+
+No encuentro disfrute en esto.
+
+Esto no me conecta.
+
+Nada me atrae ahora.
+
+No me llena esto.
+
+No encuentro motivación alguna.
+
+No le encuentro gracia.
+
+No quiero hacer esfuerzo.
+
+Me siento apático hoy.
+
+No me apetece seguir.
+
+No estoy disfrutando nada.
+
+No quiero involucrarme más.
+
+Nada me emociona ahora.
+
+Esto me parece irrelevante.
+
+Me siento desconectado de esto.
+
+Esto no me enciende.
+
+No hay entusiasmo aquí.
+
+No quiero hacerlo hoy.
+
+No encuentro sentido a esto.
+
+Me siento indiferente a esto.
+
+Esto no tiene propósito.
+
+No me interesa en absoluto.
+
+No quiero esforzarme más.
+
+Nada me genera satisfacción.
+
+No le encuentro propósito.
+
+Todo me parece igual.
+
+No le veo valor.
+
+Esto no me entusiasma.
+
+Me siento desinteresado ahora.
+
+No tengo motivación para eso.
+
+No encuentro alegría en esto.
+
+No quiero continuar ahora.
+
+No estoy motivado para esto.
+
+No me da placer.
+
+Esto no me hace feliz.
+
+Nada de esto me atrae.
+
+No tengo deseos de hacerlo.
+
+No encuentro emoción en esto.
+
+Todo parece igual de aburrido.
+
+Esto no me genera nada.
+
+No tengo ganas de más.
+
+Me siento desconectado de todo.
+
+Esto no tiene chispa.
+
+Nada me llama la atención.
+
+No quiero hacerlo ahora.
+
+Me siento cansado de esto.
+
+No me entusiasma en lo más mínimo.
+
+No le encuentro utilidad a esto.
+
+No quiero continuar más.
+
+No tengo interés alguno.
+
+Esto no es lo mío.
+
+Nada me llama hoy.
+
+No quiero avanzar hoy.
+
+Todo me resulta plano.
+
+No tengo ánimo para eso.
+
+No me atrae lo más mínimo.
+
+Esto no despierta nada en mí.
+
+Me siento vacío ahora.
+
+No tengo interés en esto.
+
+No le veo valor a esto.
+
+No quiero seguir hoy.
+
+Me siento indiferente al respecto.
+
+Esto no me impulsa.
+
+No tengo ganas de intentarlo.
+
+No me conecta nada.
+
+Esto no me hace sentido.
+
+No me divierte para nada.
+
+No me inspira hacer esto.
+
+No tengo fuerzas para esto.
+
+Nada me entusiasma hoy.
+Esto no me interesa para nada.
+
+No tengo ganas de hacerlo hoy.
+
+No encuentro sentido en esto.
+
+Nada me entusiasma hoy, la verdad.
+
+No me divierte hacer esto.
+
+Esto no me llama la atención.
+
+Siento que es una pérdida de tiempo.
+
+No me motiva nada de esto.
+
+No tengo ánimo para seguir ahora.
+
+Esto simplemente no me atrae.
+
+No me hace ilusión continuar.
+
+No me genera ningún placer hacer esto.
+
+Esto no me interesa en absoluto.
+
+No tengo ganas de hacerlo en este momento.
+
+No le encuentro sentido a esto.
+
+Esto no me emociona para nada.
+
+Estoy demasiado cansado para esto.
+
+No me parece divertido en lo más mínimo.
+
+No le veo utilidad a esto.
+
+No quiero hacerlo, simplemente.
+
+Esto no me llena de energía.
+
+No tengo motivación para seguir hoy.
+
+Esto no me inspira ni un poco.
+
+No me atrae esto en lo absoluto.
+
+Nada de esto me emociona.
+
+No quiero seguir con esto ahora.
+
+No tengo interés en seguir.
+
+No le encuentro gracia a esto.
+
+No me apetece continuar.
+
+No encuentro satisfacción en hacer esto.
+
+Esto simplemente no me conecta.
+
+No tengo ganas de seguir aquí.
+
+No le veo propósito a esto.
+
+No quiero hacer esto, la verdad.
+
+Esto no despierta ninguna emoción.
+
+No tengo energía para esto.
+
+No me apetece en lo más mínimo.
+
+Esto me resulta bastante aburrido.
+
+No encuentro diversión en esto.
+
+No tengo motivación para nada.
+
+No me gusta nada de esto.
+
+Esto no me hace sentir nada.
+
+No tengo interés en esto, en absoluto.
+
+No le veo sentido a esto.
+
+No me atrae esto para nada.
+
+No tengo ganas de hacerlo ahora.
+
+Esto no tiene chispa para mí.
+
+Me siento desconectado de esto.
+
+No me resulta interesante en lo más mínimo.
+
+No quiero seguir con esto.
+
+No encuentro nada fascinante en esto.
+
+No me hace sentir bien hacerlo.
+
+Esto no es lo mío, para nada.
+
+No tengo motivación para seguir aquí.
+
+No me apetece en lo más mínimo.
+
+Esto no me ilusiona en absoluto.
+
+No le encuentro valor a esto.
+
+No quiero seguir con esto, en serio.
+
+No me genera ninguna emoción.
+
+No me atrae nada de esto.
+
+No quiero seguir adelante con esto.
+
+No me interesa seguir aquí.
+
+No le encuentro ningún sentido.
+
+No me parece relevante en lo más mínimo.
+
+Esto no me hace feliz.
+
+No me resulta divertido ni un poco.
+
+No tengo ganas de continuar hoy.
+
+No encuentro satisfacción alguna en esto.
+
+No le encuentro ningún propósito.
+
+Esto no es lo que quiero hacer.
+
+No me hace sentir realizado.
+
+No tengo energía para seguir.
+
+Esto no me entusiasma ni un poco.
+
+No encuentro interés en esto.
+
+No quiero seguir haciéndolo.
+
+Esto no tiene nada de emocionante.
+
+No me atrae seguir con esto.
+
+No encuentro valor en esto.
+
+No me apetece para nada.
+
+Esto no me genera alegría alguna.
+
+No tengo ganas de seguir con esto.
+
+No me divierte ni un poco.
+
+Esto no tiene sentido para mí.
+
+No tengo energía para continuar con esto.
+
+No me interesa lo que sigue.
+
+Esto no me resulta en absoluto atractivo.
+
+No le veo ninguna gracia a esto.
+
+No tengo deseos de seguir.
+
+No me emociona para nada.
+
+No me motiva seguir con esto.
+
+Esto no tiene nada que ver conmigo.
+
+No quiero continuar con esto.
+
+Esto no me genera ni un poco de emoción.
+
+No me apetece seguir ahora.
+
+No tengo entusiasmo por hacer esto.
+
+No me gusta nada hacer esto.
+
+Esto no me emociona, sinceramente.
+
+No le encuentro ninguna ventaja.
+
+No quiero hacerlo más.
+
+Esto no me llena, para nada.
+No me importa si lo hago o no.
+
+Esto no me da ganas de continuar.
+
+No tengo ningún interés en seguir adelante.
+
+Esto no me divierte en lo más mínimo.
+
+No encuentro placer en hacer esto.
+
+No tengo motivación para seguir haciendo esto.
+
+No le veo el sentido a esto.
+
+Esto no me emociona, sinceramente.
+
+No me gusta hacer esto, pero lo hago.
+
+Esto simplemente no me entusiasma para nada.
+
+No tengo ganas de seguir con esto ahora.
+
+No me hace sentir bien hacer esto.
+
+No me interesa continuar con esto hoy.
+
+Esto no me da ninguna satisfacción.
+
+No me motiva hacer esto, para nada.
+
+No le veo propósito a lo que estoy haciendo.
+
+No me agrada este tipo de actividades.
+
+Esto me resulta aburrido y sin sentido.
+
+No encuentro ninguna satisfacción en seguir aquí.
+
+No tengo ninguna motivación para hacerlo.
+
+Esto no tiene chispa para mí.
+
+No me apetece seguir con esto.
+
+No me interesa seguir haciendo esto.
+
+No me genera ninguna emoción hacer esto.
+
+Esto no me da ganas de continuar.
+
+No me resulta divertido, solo necesario.
+
+Esto no me emociona ni un poco.
+
+No encuentro placer en este tipo de cosas.
+
+No quiero seguir haciendo esto.
+
+Esto no es algo que disfrute en absoluto.
+
+No le encuentro sentido a esto.
+
+No quiero seguir haciéndolo, de verdad.
+
+Esto no me genera felicidad ni entusiasmo.
+
+No me hace sentir bien hacerlo.
+
+No encuentro ningún aliciente en seguir aquí.
+
+Esto no tiene nada de emocionante para mí.
+
+No me interesa, la verdad.
+
+Esto no tiene ningún impacto positivo en mí.
+
+No siento que esto valga la pena.
+
+Esto no me inspira en absoluto.
+
+No me apetece hacer esto ahora mismo.
+
+No me resulta interesante seguir con esto.
+
+Esto no tiene nada que ver conmigo.
+
+No le veo ninguna diversión a esto.
+
+No me atrae este tipo de actividad.
+
+No me da placer seguir aquí.
+
+Esto no tiene nada de relevante para mí.
+
+No le encuentro sentido a esto.
+
+No me hace sentir nada especial hacerlo.
+
+No me entusiasma continuar con esto.
+
+No tengo ninguna energía para seguir aquí.
+
+No quiero seguir en esta actividad.
+
+Esto no me emociona ni un poco.
+
+No me interesa lo que estoy haciendo ahora.
+
+No le veo valor en seguir con esto.
+
+Esto no me resulta satisfactorio en lo más mínimo.
+
+No me resulta nada estimulante seguir aquí.
+
+No me hace feliz seguir haciendo esto.
+
+No tengo ganas de hacerlo, simplemente.
+
+Esto no me interesa en absoluto.
+
+No me genera ningún tipo de emoción.
+
+No siento que esto sea útil.
+
+No le encuentro gracia a esto en absoluto.
+
+Esto no me parece ni un poco interesante.
+
+No le veo beneficio alguno a esto.
+
+No me da placer seguir con esto.
+
+Esto no es algo que me atraiga.
+
+No me hace ilusión continuar con esto.
+
+No quiero seguir con esta actividad ahora.
+
+No le encuentro sentido a seguir aquí.
+
+No me motiva en lo más mínimo.
+
+Esto no tiene ningún atractivo para mí.
+
+No me resulta emocionante seguir haciendo esto.
+
+No tengo ganas de hacer esto ahora.
+
+Esto no me llena de energía.
+
+No le encuentro sentido a lo que estoy haciendo.
+
+No quiero seguir con esto en este momento.
+
+No me resulta placentero en lo absoluto.
+
+No tengo interés en seguir adelante.
+
+Esto no me satisface de ninguna forma.
+
+No me apetece seguir con esto, sinceramente.
+
+Esto no me trae ninguna alegría.
+
+No le veo la gracia a esto.
+
+No me entusiasma en lo más mínimo.
+
+Esto no tiene sentido para mí.
+
+No me resulta nada interesante seguir aquí.
+
+No me interesa en absoluto lo que estoy haciendo.
+
+No quiero seguir con esto, la verdad.
+
+No me genera ninguna sensación positiva.
+
+No encuentro placer alguno en seguir con esto.
+
+No me hace feliz en absoluto.
+
+Esto no me da motivación para seguir.
+
+No encuentro ninguna emoción en lo que estoy haciendo.
+
+No le veo relevancia alguna a esto.
+
+Esto no me entusiasma para nada.
+
+No le veo propósito a esto en absoluto.
+
+No me interesa continuar, sinceramente.
+
+No me hace sentir satisfecho hacer esto.
+
+No quiero seguir aquí ni un minuto más.
+
+Esto no me da ninguna satisfacción personal.

@@ -1,0 +1,796 @@
+Mis pensamientos vuelan sin control.
+
+Es difícil mantener la atención.
+
+Me distraigo con facilidad.
+
+Mi mente no para de divagar.
+
+Necesito concentrarme, pero no puedo.
+
+La concentración se me escapa.
+
+Todo me distrae fácilmente hoy.
+
+Me cuesta mantenerme enfocado.
+
+Ideas dispersas por todos lados.
+
+Mi mente está en todas partes.
+
+Hoy estoy desconcentrado totalmente.
+
+Siento que pierdo el foco.
+
+Me cuesta mucho concentrarme.
+
+Todo parece llamar mi atención.
+
+Mi mente divaga constantemente.
+
+Estoy perdiendo el hilo.
+
+Mi concentración está en baja.
+
+El enfoque es un reto hoy.
+
+No puedo pensar claramente.
+
+Todo me distrae demasiado hoy.
+
+Hoy mi mente está nublada.
+
+Tengo dificultades para concentrarme.
+
+No logro mantenerme enfocado.
+
+Mis pensamientos están dispersos.
+
+Me distraigo sin quererlo.
+
+Es difícil pensar con claridad.
+
+Hoy es un día disperso.
+
+Tengo mil cosas en mente.
+
+El foco se me escapa.
+
+Mi mente salta de tema.
+
+No puedo mantener el ritmo.
+
+La concentración me evade hoy.
+
+Mi mente no se enfoca.
+
+Todo parece interrumpir mi concentración.
+
+Mi atención está fragmentada.
+
+Hoy me cuesta organizar pensamientos.
+
+Siento mi mente dispersa.
+
+Me cuesta quedarme en una tarea.
+
+Estoy perdiendo mi capacidad de concentración.
+
+Mi cabeza no se calma.
+
+Me cuesta retener ideas claras.
+
+Mi enfoque no está funcionando.
+
+Pensando en muchas cosas a la vez.
+
+Estoy completamente desconcentrado ahora.
+
+Mi mente no se queda quieta.
+
+Me distraigo cada minuto.
+
+Todo me está sacando de foco.
+
+Siento que estoy perdiendo el control.
+
+No puedo seguir el hilo.
+
+Mi mente no se centra.
+
+Estoy pensando en muchas cosas.
+
+Hoy no puedo concentrarme bien.
+
+Mi enfoque está descontrolado.
+
+Todo parece interrumpir mis pensamientos.
+
+Es difícil mantener el foco.
+
+Hoy estoy mentalmente disperso.
+
+Mi mente se distrae fácilmente.
+
+La concentración se escapa constantemente.
+
+Hoy estoy disperso mentalmente.
+
+Me cuesta mantener mi atención.
+
+Mi enfoque es frágil hoy.
+
+Mi mente se dispersa con facilidad.
+
+Mi atención se va volando.
+
+Es un reto concentrarse hoy.
+
+Los pensamientos me desbordan.
+
+Estoy muy desconcentrado en este momento.
+
+La mente se me va.
+
+Tengo la mente en mil lugares.
+
+Mi enfoque está fragmentado.
+
+Es difícil encontrar el foco.
+
+Estoy pensando en mil cosas.
+
+Mis pensamientos no se alinean.
+
+Hoy mi concentración está perdida.
+
+La mente se me dispersa.
+
+Hoy estoy mentalmente desconectado.
+
+Me cuesta quedarme en una tarea.
+
+Estoy demasiado distraído ahora.
+
+Mi mente se dispersa sin control.
+
+Mis pensamientos se cruzan constantemente.
+
+Mi atención está completamente dispersa.
+
+Hoy la concentración no aparece.
+
+Mi mente va a mil por hora.
+
+No puedo quedarme quieto mentalmente.
+
+Me pierdo fácilmente en mis pensamientos.
+
+Me siento mentalmente nublado.
+
+Mis ideas no se alinean.
+
+Mi concentración está perdida hoy.
+
+Mi mente salta sin cesar.
+
+Siento que mi mente vuela.
+
+Me cuesta mantener el enfoque.
+
+La concentración no llega hoy.
+
+Estoy pensando en muchas cosas.
+
+Mis pensamientos son un caos.
+
+No encuentro el enfoque correcto.
+
+Es difícil pensar en una sola cosa.
+
+Me distraigo constantemente mientras trabajo.
+
+Estoy mentalmente fuera de foco.
+
+Siento que no logro concentrarme.
+
+Mi mente está dispersa hoy.
+
+La concentración no está a mi alcance.
+No puedo concentrarme hoy.
+
+Mi mente está dispersa.
+
+Todo me distrae constantemente.
+
+Me cuesta enfocarme ahora.
+
+Mis pensamientos se cruzan.
+
+No encuentro mi concentración.
+
+Me cuesta pensar claramente.
+
+Me desconcentro fácilmente hoy.
+
+Siento mi mente dispersa.
+
+No logro mantener el enfoque.
+
+Mi atención se va.
+
+Estoy muy desconcentrado hoy.
+
+Me distraigo cada momento.
+
+No puedo quedarme enfocado.
+
+La concentración se me escapa.
+
+Siento que no pienso bien.
+
+Mi mente no se calma.
+
+Todo me saca del foco.
+
+Mi mente salta de tema.
+
+No logro concentrarme hoy.
+
+Tengo la mente dispersa.
+
+Hoy me siento distraído.
+
+Es difícil mantenerme enfocado.
+
+Mi atención está fragmentada.
+
+No puedo pensar claramente.
+
+Mis ideas se dispersan.
+
+Estoy muy disperso mentalmente.
+
+Mi mente no se concentra.
+
+Me cuesta mantener atención.
+
+Mi mente no se centra.
+
+Mi foco está perdido.
+
+Todo me interrumpe mentalmente.
+
+Siento que pierdo el enfoque.
+
+Estoy muy distraído ahora.
+
+Mis pensamientos no se alinean.
+
+Hoy mi mente está nublada.
+
+Siento que pierdo el control.
+
+Mi cabeza está en mil cosas.
+
+No logro seguir una idea.
+
+Mi mente está muy dispersa.
+
+Me cuesta retener ideas.
+
+Mi concentración se escapa.
+
+Hoy no puedo concentrarme.
+
+Siento que no me enfoco.
+
+Mi mente divaga sin cesar.
+
+Me siento mentalmente nublado.
+
+Mis pensamientos saltan constantemente.
+
+Me cuesta quedarme en una tarea.
+
+Mi mente salta demasiado.
+
+La concentración no llega hoy.
+
+Es difícil encontrar el foco.
+
+Mis pensamientos son caóticos.
+
+Estoy perdiendo el enfoque.
+
+No puedo retener pensamientos.
+
+Todo me distrae constantemente.
+
+Mi cabeza está en otro lugar.
+
+Es difícil seguir el hilo.
+
+Mi mente está dispersa ahora.
+
+No puedo mantener atención.
+
+Mis pensamientos no se alinean.
+
+Estoy perdido mentalmente hoy.
+
+Mi foco está muy débil.
+
+Mi concentración es limitada.
+
+Mi mente se escapa constantemente.
+
+Hoy no me concentro bien.
+
+Me cuesta mantenerme enfocado.
+
+La concentración se me va.
+
+Mi atención está dividida.
+
+Mi mente está dispersa ahora.
+
+Me desconcentro fácilmente hoy.
+
+Mis ideas se cruzan.
+
+No puedo mantener el ritmo.
+
+Mi mente está dispersa constantemente.
+
+Siento que no me enfoco.
+
+No puedo concentrarme más.
+
+Mis pensamientos no se alinean.
+
+Me cuesta mantener atención ahora.
+
+Mi mente se dispersa constantemente.
+
+Es difícil mantenerme en tarea.
+
+No puedo quedarme enfocado.
+
+Hoy tengo la mente dispersa.
+
+Mis pensamientos son confusos.
+
+Mi concentración está a la baja.
+
+Me siento mentalmente agotado.
+
+Mi mente está fragmentada.
+
+Es difícil concentrarse hoy.
+
+Me desconcentro en segundos.
+
+Siento que mi mente vuela.
+
+Estoy mentalmente disperso ahora.
+
+Todo me saca de foco.
+
+No logro mantener la atención.
+
+Hoy me siento distraído.
+
+Mi mente no se enfoca.
+
+Estoy distraído constantemente hoy.
+
+Todo me interrumpe mentalmente.
+
+Mi mente está fuera de foco.
+
+No logro concentrarme hoy.
+
+Mi atención no se mantiene.
+
+Estoy muy disperso hoy.
+
+Mi mente no se enfoca bien.
+No logro concentrarme hoy, me distraigo fácilmente.
+
+Mi mente salta de idea en idea, no puedo enfocarme.
+
+Todo me distrae y no puedo concentrarme en nada.
+
+Mis pensamientos están dispersos, me cuesta mantener el enfoque.
+
+Estoy perdido en mis pensamientos, me cuesta concentrarme.
+
+Es difícil mantener la atención, mi mente se dispersa.
+
+Siento que mi concentración es mínima, nada me retiene.
+
+Mi mente vuela, no puedo quedarme concentrado.
+
+No logro enfocarme hoy, todo me distrae.
+
+Mis pensamientos saltan constantemente, es difícil mantenerme enfocado.
+
+Hoy todo me distrae, la concentración me cuesta mucho.
+
+Estoy distraído, mis pensamientos no se enfocan.
+
+Me cuesta mucho concentrarme, mi mente está dispersa.
+
+No puedo pensar con claridad, mi atención está dispersa.
+
+Estoy perdido en mis pensamientos, no me puedo concentrar.
+
+No puedo quedarme enfocado, mi mente está en mil cosas.
+
+Es difícil concentrarme, mis pensamientos se dispersan rápidamente.
+
+Me distraigo en segundos, no puedo mantener la concentración.
+
+Mi mente está dispersa, no puedo quedarme en algo.
+
+Hoy me cuesta muchísimo concentrarme en cualquier cosa.
+
+Mi atención no se mantiene, todo me desconcentra.
+
+No puedo seguir una idea, mi mente se dispersa.
+
+Es difícil mantener la concentración, mis pensamientos se van.
+
+Todo me interrumpe, no puedo enfocarme por mucho tiempo.
+
+No logro concentrarme hoy, mi mente no para de saltar.
+
+Mi atención está fragmentada, no logro enfocarme en nada.
+
+Mi mente está dispersa, no puedo concentrarme en una tarea.
+
+Hoy tengo la mente muy dispersa, no puedo concentrarme.
+
+Mis pensamientos van en todas direcciones, es difícil concentrarse.
+
+La concentración me cuesta hoy, todo me distrae fácilmente.
+
+Mi mente está nublada, no puedo enfocarme en nada.
+
+Mis pensamientos son desordenados, me cuesta mucho concentrarme.
+
+Me siento perdido en mis pensamientos, no puedo concentrarme.
+
+Mi mente se va por completo, me cuesta mantener atención.
+
+Me desconcentro con facilidad, no puedo mantenerme enfocado.
+
+Todo me distrae hoy, mi mente no se concentra.
+
+Estoy disperso, me cuesta mantenerme enfocado en una cosa.
+
+Mis pensamientos saltan de un lado a otro sin control.
+
+No puedo mantenerme enfocado, mi mente no para de vagar.
+
+Hoy mi mente está dispersa, todo me desconcentra.
+
+No logro concentrarme, mi mente se dispersa constantemente.
+
+Me distraigo con todo, no puedo concentrarme.
+
+Mi atención está dividida, no puedo quedarme enfocado.
+
+Hoy no logro mantenerme enfocado, mis pensamientos se dispersan.
+
+Mis pensamientos son fugaces, me cuesta mucho concentrarme.
+
+Mi mente se dispersa rápidamente, es difícil concentrarme.
+
+Mi concentración se va en minutos, estoy completamente distraído.
+
+Hoy no puedo concentrarme, todo me desvía de mi foco.
+
+Me cuesta mantener la concentración, mis pensamientos van a mil.
+
+Mi mente está en mil lugares, no puedo enfocarme en nada.
+
+Todo me interrumpe, mi concentración no es buena hoy.
+
+Hoy me siento disperso, no logro concentrarme en nada.
+
+Estoy distraído, mi mente no se enfoca.
+
+Mi concentración está en su punto más bajo hoy.
+
+No puedo seguir una tarea, mi mente se dispersa.
+
+Me cuesta mucho concentrarme, mi mente no para de saltar.
+
+Hoy estoy desconcentrado, no puedo enfocarme en nada.
+
+Mis pensamientos no se alinean, me cuesta mantener la concentración.
+
+Mi mente está fragmentada, no puedo concentrarme bien.
+
+No puedo enfocarme, todo me distrae sin querer.
+
+Hoy estoy disperso, no logro mantener mi atención.
+
+Me siento muy distraído, mi concentración está débil.
+
+Mis pensamientos van y vienen sin control.
+
+Hoy mi mente no está clara, me cuesta concentrarme.
+
+Siento que todo me distrae hoy, no puedo concentrarme.
+
+Me cuesta mantener el enfoque, todo me desvía.
+
+La concentración no llega hoy, mis pensamientos están dispersos.
+
+Hoy estoy fuera de foco, no puedo concentrarme en nada.
+
+Todo me interrumpe, mi mente no se enfoca.
+
+Mi concentración se pierde fácilmente, estoy muy distraído.
+
+Me cuesta quedarme en una tarea, mi mente divaga.
+
+No logro concentrarme en una sola cosa, mi mente salta.
+
+Todo me distrae hoy, no puedo concentrarme.
+
+Mis pensamientos son dispersos, no logro enfocarme.
+
+No puedo quedarme enfocado, mi mente está dispersa.
+
+Hoy mi atención está muy débil, me cuesta concentrarme.
+
+No logro concentrarme, mis pensamientos no se alinean.
+
+Hoy mi mente está en caos, me cuesta mantener el foco.
+
+Siento que todo me distrae, no puedo concentrarme en nada.
+
+Hoy mi atención es frágil, me cuesta concentrarme en algo.
+
+Me siento distraído, mis pensamientos saltan constantemente.
+
+No logro quedarme enfocado hoy, mi mente es inestable.
+
+Mi concentración es débil, todo me interrumpe constantemente.
+
+Hoy no puedo concentrarme, todo me desvía de mi enfoque.
+
+Mis pensamientos se cruzan, no logro concentrarme.
+
+Mi mente no para de saltar, no puedo concentrarme.
+
+La concentración no es fácil hoy, mi mente se dispersa.
+
+No me concentro bien hoy, mis pensamientos van por otro lado.
+
+Estoy distraído todo el tiempo, mi mente no se enfoca.
+
+Mi mente es muy dispersa, no puedo quedarme enfocado.
+
+Mi concentración se desvanece rápidamente, estoy perdido en mis pensamientos.
+
+Mi atención se escapa constantemente, me cuesta concentrarme.
+
+Hoy tengo la mente dispersa, no puedo mantener mi enfoque.
+
+No puedo concentrarme, mi mente está en otra parte.
+
+Hoy mi enfoque es mínimo, todo me desconcentra.
+
+No logro enfocarme bien, mi mente es un caos.
+
+Mi mente está dispersa, no puedo concentrarme hoy.
+
+Todo me saca del foco, mi concentración se pierde rápido.
+
+No puedo quedarme concentrado hoy, todo me distrae.
+
+Mi mente no puede enfocarse, está completamente dispersa hoy.
+Me cuesta quedarme concentrado, mi mente se dispersa fácilmente.
+
+No puedo mantener el enfoque, todo me distrae rápidamente.
+
+Hoy mi concentración está perdida, todo me desvía de mi tarea.
+
+Mi mente está dispersa, es difícil concentrarse en una sola cosa.
+
+Siento que mi atención se pierde en todos lados.
+
+No puedo concentrarme, mi mente salta de una idea a otra.
+
+Mi enfoque es débil, todo me distrae con facilidad.
+
+Hoy me cuesta mucho mantenerme enfocado en lo que hago.
+
+Mi mente no para de vagar, no puedo concentrarme.
+
+No logro concentrarme, mis pensamientos siempre se dispersan.
+
+Me distraigo fácilmente, no logro quedarme enfocado por mucho tiempo.
+
+La concentración me cuesta hoy, me siento perdido en mis pensamientos.
+
+Todo me distrae hoy, no puedo mantenerme enfocado en una tarea.
+
+Siento que mi mente se escapa constantemente, no puedo concentrarme.
+
+No puedo mantener mi atención, todo me parece más interesante.
+
+Hoy mi concentración está débil, mis pensamientos están dispersos.
+
+Me cuesta mucho enfocarme, mis pensamientos no se alinean.
+
+Mi mente está en todos lados, es difícil concentrarse.
+
+Me distraigo rápido, no puedo mantenerme enfocado mucho tiempo.
+
+No logro concentrarme, mis pensamientos se van sin control.
+
+Mi atención no se mantiene, mi mente se dispersa con facilidad.
+
+Todo me desconcentra, es difícil quedarme enfocado en algo.
+
+Hoy no puedo concentrarme, mis pensamientos se cruzan constantemente.
+
+Siento que no logro enfocarme, mi mente salta de idea a idea.
+
+No puedo concentrarme, mi mente va por su cuenta.
+
+Es difícil mantener el enfoque, mi mente está en mil lugares.
+
+Mi mente no se centra, me cuesta mucho concentrarme hoy.
+
+Todo me distrae hoy, es difícil mantenerme enfocado.
+
+Hoy mis pensamientos saltan constantemente, no logro concentrarme.
+
+Mi concentración está muy baja, todo me desvía de mi enfoque.
+
+Siento que me cuesta mucho mantenerme enfocado en una sola tarea.
+
+No puedo concentrarme, mi mente se dispersa rápidamente.
+
+Mi mente está dispersa, es difícil concentrarse en algo específico.
+
+La concentración no llega hoy, mi mente no se calma.
+
+Me siento perdido en mis pensamientos, no puedo concentrarme.
+
+No logro quedarme enfocado, mis pensamientos siempre se desvían.
+
+Me cuesta mucho concentrarme, todo me parece más urgente que mi tarea.
+
+Hoy no logro mantener el enfoque, mis pensamientos se dispersan.
+
+Mi mente está ocupada en mil cosas, no puedo concentrarme.
+
+Todo me saca de mi foco, es difícil mantenerme enfocado.
+
+No puedo quedarme concentrado, mi mente salta entre ideas.
+
+Hoy la concentración no está de mi lado, me cuesta mucho enfocarme.
+
+Mi atención está dividida, no logro concentrarme por mucho tiempo.
+
+Me distraigo fácilmente, mis pensamientos van de un lado a otro.
+
+Mi mente está dispersa, me cuesta mantener la atención en algo.
+
+Siento que mis pensamientos no se alinean, no puedo concentrarme.
+
+Mi mente no se calma, todo me desconcentra hoy.
+
+Me siento distraído, mis pensamientos no paran de irse.
+
+Mi mente se dispersa, todo parece más importante que mi tarea.
+
+Me cuesta mucho concentrarme, mis pensamientos vuelan constantemente.
+
+Siento que mi atención es débil, me distraigo con facilidad.
+
+Mi mente está dispersa, me cuesta mantenerme enfocado.
+
+Me siento perdido, mi mente no se enfoca en nada.
+
+No logro concentrarme, mis pensamientos se escapan de mi control.
+
+Hoy todo me distrae, me cuesta mucho quedarme enfocado.
+
+Mi mente se dispersa, es difícil concentrarme en lo que hago.
+
+No logro mantener mi concentración, todo parece más interesante que mi tarea.
+
+Hoy me cuesta mucho concentrarme, mis pensamientos están dispersos.
+
+No puedo mantenerme enfocado, mis pensamientos son un caos.
+
+Mi atención se pierde fácilmente, mis pensamientos se van rápidamente.
+
+Me siento distraído, es difícil mantener el enfoque en algo.
+
+Todo me desvía del enfoque, mi mente está dispersa.
+
+Me cuesta mucho concentrarme hoy, mi mente está en todas partes.
+
+Mi concentración es baja, no logro quedarme enfocado.
+
+Mi mente está en otras cosas, me cuesta concentrarme.
+
+Mi atención se divide rápidamente, es difícil concentrarme.
+
+Me siento disperso, mis pensamientos saltan entre ideas sin control.
+
+Todo me interrumpe, no logro mantenerme enfocado en algo.
+
+Mi mente está dispersa, no logro quedarme enfocado en nada.
+
+Hoy mi concentración está débil, todo me distrae.
+
+No logro concentrarme, mi mente no para de saltar.
+
+Me siento distraído, mi atención se desvía rápidamente.
+
+Mi mente está desordenada, no puedo concentrarme en nada.
+
+Todo me desconcentra hoy, mi mente no se calma.
+
+No logro concentrarme, mis pensamientos están dispersos.
+
+Mi mente va de un lado a otro, no puedo concentrarme.
+
+Hoy todo me distrae, me cuesta mucho enfocarme.
+
+Mi concentración es mínima, mis pensamientos no se alinean.
+
+Me siento desconcentrado, mi mente no para de vagar.
+
+Mi mente está dispersa, me cuesta concentrarme por mucho tiempo.
+
+Hoy no puedo quedarme enfocado, mis pensamientos no se enfocan.
+
+Me siento perdido, mi atención está dividida constantemente.
+
+Todo me distrae, no logro concentrarme en nada.
+
+Hoy mi mente está dispersa, me cuesta quedarme enfocado.
+
+No logro concentrarme, mi mente no se calma.
+
+Mi mente está dispersa, siento que me cuesta concentrarme.
+
+Todo me interrumpe hoy, no puedo mantenerme enfocado.
+
+Mi concentración es baja hoy, todo me distrae.
+
+Me siento desconcentrado, mi mente está en otro lugar.
+
+Hoy la concentración no llega, todo me distrae con facilidad.
+
+Mi mente está dispersa, no logro quedarme concentrado.
+
+Me cuesta mucho concentrarme, mis pensamientos se dispersan rápidamente.
+
+Mi atención está débil, me distraigo constantemente.
+
+Hoy no puedo concentrarme, todo parece más urgente que mi tarea.
+
+Mi mente se dispersa fácilmente, me cuesta concentrarme.
+
+Mi concentración está dividida, no puedo quedarme enfocado.
+
+No logro concentrarme, mis pensamientos saltan sin control.
+
+Mi mente está en mil cosas, no puedo concentrarme.
+
+Todo me interrumpe, mi atención no se mantiene en una sola cosa.
+
+Hoy me siento distraído, me cuesta mucho mantener el enfoque.

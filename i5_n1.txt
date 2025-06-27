@@ -1,0 +1,796 @@
+No tengo mucha hambre.
+
+No me apetece comer.
+
+Solo quiero algo ligero.
+
+No tengo ganas de comer.
+
+El apetito está bajo hoy.
+
+No siento mucha hambre.
+
+Hoy no tengo hambre.
+
+No quiero comer mucho.
+
+Solo tengo algo de hambre.
+
+No me atrae la comida.
+
+Comería algo ligero, nada más.
+
+Hoy no tengo ganas.
+
+No me apetece nada.
+
+Mi estómago está perezoso.
+
+No siento hambre, solo sed.
+
+Apenas tengo ganas de comer.
+
+El apetito me falló hoy.
+
+No tengo mucha hambre hoy.
+
+No quiero comer hoy.
+
+Mi apetito está ausente.
+
+No me provoca comer.
+
+Hoy no tengo deseos.
+
+La comida no me atrae.
+
+No siento hambre alguna.
+
+Mi estómago está en huelga.
+
+Apenas quiero comer algo.
+
+El hambre no aparece hoy.
+
+No tengo antojos hoy.
+
+No quiero ni probar.
+
+Poco apetito hoy, lamentablemente.
+
+Hoy el hambre está ausente.
+
+Apenas tengo ganas de comer.
+
+No apetece nada de comer.
+
+No tengo hambre para nada.
+
+El estómago está tranquilo.
+
+No siento deseos de comer.
+
+No me da hambre hoy.
+
+Poco deseo de comer hoy.
+
+Nada de apetito hoy.
+
+No tengo ganas de nada.
+
+Hoy no quiero comer.
+
+El hambre se olvidó hoy.
+
+Poco apetito, casi nada.
+
+No me interesa comer hoy.
+
+No tengo ganas de almorzar.
+
+Mi hambre está dormida.
+
+Hoy no hay antojos.
+
+Mi estómago está a dieta.
+
+No tengo ganas de nada.
+
+Hoy no quiero nada.
+
+No me atrae comer.
+
+Hoy mi estómago no pide.
+
+El hambre no está aquí.
+
+Poco apetito en este momento.
+
+Apenas quiero algo ligero.
+
+El hambre se fue hoy.
+
+No tengo nada de hambre.
+
+Mi apetito está casi nulo.
+
+No tengo ganas de cenar.
+
+No siento deseos de comer.
+
+El apetito está dormido hoy.
+
+No tengo hambre de verdad.
+
+El estómago está vacío, pero sin hambre.
+
+No quiero ni un bocado.
+
+Nada de hambre hoy, increíble.
+
+No me apetece ni un poco.
+
+Hoy mi apetito está apagado.
+
+Apenas tengo hambre de nada.
+
+Hoy no tengo apetito.
+
+No quiero comer por ahora.
+
+Hoy no tengo ganas, nada.
+
+El apetito se esfumó hoy.
+
+Hoy ni un poco de hambre.
+
+Apenas siento hambre, tal vez.
+
+No quiero comer ahorita.
+
+Poco apetito, pero algo se puede.
+
+Mi estómago no responde hoy.
+
+Hoy el hambre está en pausa.
+
+Sin hambre, sin deseos hoy.
+
+Mi apetito está dormido.
+
+Hoy no quiero nada de comida.
+
+El apetito se escapó hoy.
+
+No tengo ganas de probar.
+
+Hoy no me da hambre.
+
+El hambre no está presente.
+
+Poco deseo de comer ahora.
+
+Hoy el hambre no aparece.
+
+Poco apetito, solo un poco.
+
+Hoy el hambre está ausente.
+
+No tengo deseos de comer.
+
+El estómago está vacío, pero tranquilo.
+
+No me apetece hoy, nada.
+
+No tengo muchas ganas de comer.
+
+Sin apetito para comer hoy.
+
+No quiero nada para comer.
+
+Hoy el hambre está apagada.
+
+Mi estómago no pide comida.
+
+No tengo antojo de nada.
+
+Hoy no siento hambre.
+
+No tengo apetito para nada.
+No tengo hambre hoy.
+
+No quiero comer nada.
+
+Poco apetito, nada más.
+
+No me provoca comer.
+
+Apenas tengo ganas de comer.
+
+No tengo ganas de nada.
+
+No siento hambre ahora.
+
+Hoy no quiero comer.
+
+Nada de hambre hoy.
+
+No tengo antojos hoy.
+
+Poco deseo de comer.
+
+No me atrae la comida.
+
+Mi apetito está ausente.
+
+No quiero probar nada.
+
+El hambre está dormida.
+
+Poco apetito, casi nada.
+
+No tengo ganas de cenar.
+
+Hoy no me da hambre.
+
+Nada de apetito por hoy.
+
+Apenas tengo ganas de comer.
+
+No quiero comer ahora.
+
+El hambre no apareció hoy.
+
+No siento nada de hambre.
+
+No me apetece comer.
+
+Apenas tengo hambre, nada más.
+
+No tengo antojos para hoy.
+
+El apetito no se siente.
+
+No tengo ganas de almorzar.
+
+No me interesa comer hoy.
+
+No quiero nada de comida.
+
+Mi hambre está perdida hoy.
+
+No quiero comer ahorita.
+
+El apetito no se muestra.
+
+No me atrae nada de comer.
+
+No tengo ganas de nada.
+
+Hoy el hambre está ausente.
+
+No tengo nada de apetito.
+
+Mi apetito está apagado.
+
+No siento hambre, solo sed.
+
+Hoy no quiero nada.
+
+No tengo ganas de probar.
+
+No tengo antojo de nada.
+
+No quiero nada para comer.
+
+Hoy no hay hambre.
+
+El hambre no aparece hoy.
+
+No me apetece nada.
+
+Poco apetito, casi nulo.
+
+Hoy el hambre no está.
+
+El estómago está tranquilo hoy.
+
+Apenas tengo deseos de comer.
+
+No tengo mucha hambre.
+
+No me provoca comer hoy.
+
+No tengo ganas de probar.
+
+No tengo apetito por ahora.
+
+Hoy no quiero comer.
+
+No siento nada de apetito.
+
+Poco apetito, apenas nada.
+
+No quiero probar ni un bocado.
+
+Hoy el hambre no viene.
+
+No tengo nada de antojos.
+
+Mi hambre no aparece hoy.
+
+Hoy el apetito está bajo.
+
+No tengo deseos de nada.
+
+No quiero ni probar comida.
+
+No tengo antojos por hoy.
+
+Mi apetito está en pausa.
+
+Hoy mi apetito está apagado.
+
+No tengo ganas de comer ahora.
+
+Apenas quiero un poco.
+
+No me apetece ni un bocado.
+
+El hambre está en pausa.
+
+Hoy no hay apetito.
+
+No quiero nada, gracias.
+
+No siento deseos de comer.
+
+Apenas tengo hambre.
+
+Hoy no quiero nada de comer.
+
+Poco apetito por ahora.
+
+El estómago está tranquilo.
+
+No quiero comer por ahora.
+
+No tengo ganas de almorzar.
+
+El apetito se ha ido.
+
+No tengo deseos de probar.
+
+Hoy no quiero comer mucho.
+
+Mi apetito está a dieta.
+
+El hambre está descansando hoy.
+
+No tengo ganas de comer, de verdad.
+
+Hoy no me da hambre.
+
+No tengo apetito, nada.
+
+Hoy mi hambre está inactiva.
+
+Poco deseo de comer hoy.
+
+No quiero comer ahorita.
+
+No tengo ganas de nada.
+
+No tengo hambre para nada.
+
+Poco apetito, casi nulo hoy.
+
+No siento hambre por ahora.
+
+El apetito no se siente hoy.
+
+No tengo ganas de cenar.
+
+No quiero ni un poco.
+
+Hoy mi apetito está ausente.
+
+No me apetece comer nada.
+No tengo hambre hoy, quizás después.
+
+No me apetece comer nada por ahora.
+
+El apetito está bastante bajo hoy, casi nada.
+
+Hoy mi estómago no pide comida, extraño.
+
+No quiero comer nada por el momento.
+
+Apenas tengo ganas de probar algo.
+
+No siento hambre, solo un poco de sed.
+
+No me atrae la comida hoy, extraño.
+
+Hoy no me provoca comer, no sé por qué.
+
+No tengo ganas de comer nada por ahora.
+
+El apetito no aparece hoy, qué raro.
+
+Apenas quiero algo ligero, nada pesado.
+
+Hoy no tengo mucho deseo de comer.
+
+Poco apetito hoy, prefiero no comer mucho.
+
+No quiero comer, mi estómago está perezoso.
+
+Mi apetito está ausente hoy, nada de ganas.
+
+No tengo hambre, solo un poco de sed.
+
+Hoy no quiero probar nada de comida.
+
+Apenas tengo hambre, nada de antojos.
+
+No tengo ganas de comer por el momento.
+
+Hoy mi apetito está en pausa, raro.
+
+El hambre está dormida hoy, no sé por qué.
+
+Hoy no tengo ganas de comer, solo beber.
+
+Mi apetito está mínimo hoy, no sé qué pasa.
+
+No tengo ganas de comer mucho, solo algo pequeño.
+
+Hoy no me da hambre, nada de antojos.
+
+El apetito está bajo hoy, no me siento lleno.
+
+Hoy no quiero comer nada pesado, algo ligero.
+
+Apenas tengo hambre, no es mucho.
+
+No me provoca comer hoy, quizás más tarde.
+
+Hoy no quiero comer, mi estómago está tranquilo.
+
+No tengo hambre, solo un poco de sed.
+
+El apetito está flojo hoy, muy extraño.
+
+Hoy mi apetito está por los suelos, casi nada.
+
+Apenas quiero un bocado, no más.
+
+Hoy no me da hambre, extraño mi apetito.
+
+Poco apetito hoy, solo un bocadito tal vez.
+
+No quiero comer mucho hoy, sólo algo ligero.
+
+Hoy no siento hambre, es raro.
+
+Mi apetito está casi nulo hoy, qué extraño.
+
+No tengo ganas de comer por hoy, nada.
+
+El hambre está bajo cero hoy, extraño.
+
+Hoy no quiero comer, mi cuerpo pide descanso.
+
+Poco apetito, sólo un poco para saciarme.
+
+Hoy no quiero comer mucho, tal vez algo liviano.
+
+No tengo mucho apetito hoy, pero algo comeré.
+
+Hoy el apetito está bajo, raro en mí.
+
+No tengo ganas de comer, solo algo pequeño.
+
+El apetito no está conmigo hoy, tal vez después.
+
+Hoy no tengo hambre, mi estómago está quieto.
+
+No quiero comer por ahora, poco apetito.
+
+Hoy no me da hambre, solo sed.
+
+No tengo muchas ganas de comer hoy.
+
+Poco apetito, apenas quiero probar algo.
+
+Hoy no quiero comer mucho, sólo un poco.
+
+Mi apetito está muy bajo hoy, qué raro.
+
+Hoy no siento hambre, extraño mi apetito.
+
+Poco apetito, tal vez más tarde.
+
+No me provoca comer hoy, sólo beber algo.
+
+Hoy no tengo muchas ganas de comer, extraño.
+
+Mi apetito está apagado hoy, raro.
+
+No tengo hambre, sólo un poco de sed.
+
+Hoy mi apetito está fuera de servicio.
+
+No quiero comer hoy, no tengo ganas.
+
+Apenas tengo ganas de comer, nada más.
+
+Hoy no quiero comer, solo descansar.
+
+No tengo apetito hoy, prefiero no comer mucho.
+
+Hoy no tengo ganas de comer, nada.
+
+Mi apetito está dormido hoy, increíble.
+
+No quiero comer hoy, mi estómago está tranquilo.
+
+El apetito está apagado hoy, extraño.
+
+Hoy no tengo hambre, sólo descanso.
+
+Poco apetito hoy, no me provoca comer.
+
+No quiero comer nada hoy, sólo sed.
+
+Mi estómago no pide comida hoy, raro.
+
+Hoy el apetito está muy bajo, casi nulo.
+
+No tengo muchas ganas de comer, lo mínimo.
+
+Hoy no quiero comer mucho, solo algo pequeño.
+
+El apetito está por los suelos hoy, extraño.
+
+No me da hambre hoy, extraño mis antojos.
+
+Poco apetito, sólo quiero algo ligero.
+
+No tengo ganas de comer mucho, solo poco.
+
+Hoy no quiero comer nada pesado, sólo ligero.
+
+El hambre está ausente hoy, qué raro.
+
+Hoy no tengo ganas de comer mucho, solo poco.
+
+Poco apetito, nada más por hoy.
+
+Mi apetito está ausente hoy, extraño.
+
+Hoy no quiero comer, el apetito está flojo.
+
+No tengo hambre, sólo quiero descansar.
+
+Hoy no siento ganas de comer, nada.
+
+Poco apetito hoy, no quiero comer mucho.
+
+No tengo ganas de comer mucho hoy.
+
+Hoy mi apetito está por debajo de cero.
+
+No tengo muchas ganas de comer, apenas un poco.
+
+Hoy no quiero comer nada pesado, algo ligero.
+
+Poco apetito hoy, mi estómago no pide.
+
+Hoy no tengo ganas de comer nada.
+
+Apenas tengo hambre, pero algo comeré.
+
+No me da hambre hoy, es raro.
+
+Hoy no tengo apetito, algo ligero será suficiente.
+No tengo mucha hambre hoy, quizás más tarde.
+
+Mi apetito está bajo, no quiero comer mucho.
+
+Hoy no me apetece comer nada, sólo algo ligero.
+
+No tengo ganas de comer, solo algo pequeño si acaso.
+
+Hoy mi estómago está perezoso, no me provoca comer mucho.
+
+Poco apetito hoy, preferiría descansar en lugar de comer.
+
+No quiero comer mucho, sólo algo para saciarme.
+
+Hoy no tengo mucho apetito, apenas me interesa comer algo.
+
+Mi hambre está casi nula, pero comeré algo ligero.
+
+No tengo ganas de comer mucho, sólo algo rápido.
+
+El apetito está flojo hoy, no quiero comer mucho.
+
+No me atrae la comida, mi estómago está tranquilo.
+
+Hoy no tengo mucho deseo de comer, algo ligero tal vez.
+
+No siento hambre, sólo quiero tomar algo de agua.
+
+El apetito no se muestra hoy, pero algo comeré.
+
+Mi hambre está apagada, no quiero comer mucho.
+
+Hoy no tengo muchas ganas de comer, sólo algo básico.
+
+No tengo apetito hoy, pero necesito algo para comer.
+
+Apenas tengo hambre, no me provoca comer mucho.
+
+Hoy no quiero comer mucho, sólo algo que me calme.
+
+No tengo muchas ganas de comer, sólo lo esencial.
+
+Mi apetito está muy bajo, no me apetece nada.
+
+Hoy el hambre está casi ausente, tal vez más tarde.
+
+No me interesa comer, pero necesito algo en el estómago.
+
+Poco apetito, sólo quiero algo para pasar el rato.
+
+No tengo ganas de comer mucho, algo ligero será suficiente.
+
+Hoy no siento mucha hambre, comeré algo pequeño.
+
+Mi estómago está tranquilo, no me provoca comer mucho.
+
+Hoy no tengo mucha hambre, apenas algo ligero.
+
+No me atrae la comida hoy, sólo algo muy sencillo.
+
+Hoy mi apetito está bajo, no tengo ganas de comer mucho.
+
+No tengo hambre, sólo algo ligero para calmarme.
+
+Poco apetito, sólo comeré lo necesario para no sentirme vacío.
+
+No tengo muchas ganas de comer, sólo algo de fruta.
+
+Hoy no tengo mucha hambre, sólo algo que no sea pesado.
+
+Mi apetito está bajo, comeré algo simple.
+
+Hoy no tengo ganas de comer mucho, algo ligero me basta.
+
+No tengo deseos de comer mucho, sólo algo básico.
+
+Poco apetito hoy, comeré algo para mantenerme.
+
+Hoy no quiero comer mucho, apenas algo para calmar el estómago.
+
+No tengo hambre, sólo un poco de algo liviano.
+
+El apetito está flojo hoy, no tengo ganas de mucho.
+
+Hoy no me da hambre, pero comeré algo ligero.
+
+No tengo ganas de comer mucho, algo pequeño está bien.
+
+Hoy no tengo mucho apetito, pero comeré algo.
+
+No tengo ganas de comer nada pesado, algo ligero me basta.
+
+El hambre no está presente hoy, pero algo comeré.
+
+Hoy no quiero comer mucho, sólo algo para mantenerme.
+
+Poco apetito, sólo quiero algo sencillo y rápido.
+
+No tengo hambre, pero algo muy ligero me ayudará.
+
+Hoy no quiero comer mucho, tal vez un poco de fruta.
+
+No tengo muchas ganas de comer hoy, algo pequeño será suficiente.
+
+Hoy mi apetito está bajo, sólo quiero algo simple.
+
+No tengo hambre, sólo necesito algo para no sentirme vacío.
+
+Mi apetito está flojo hoy, pero comeré algo rápido.
+
+Hoy no tengo deseos de comer mucho, algo rápido está bien.
+
+No me apetece comer mucho hoy, sólo algo ligero.
+
+Hoy no tengo mucha hambre, un pequeño bocado está bien.
+
+Poco apetito, sólo algo para calmar el hambre.
+
+Hoy no tengo ganas de comer mucho, algo sencillo basta.
+
+No tengo apetito hoy, sólo quiero algo para seguir.
+
+Hoy mi hambre está apagada, pero algo ligero comeré.
+
+No quiero comer mucho, sólo algo para no sentirme vacío.
+
+Hoy el apetito está bajo, pero comeré algo ligero.
+
+No me atrae comer mucho hoy, sólo algo pequeño.
+
+Poco apetito hoy, pero comeré algo para no quedar vacío.
+
+No tengo ganas de comer mucho, sólo algo rápido.
+
+Hoy no tengo mucha hambre, pero necesito algo de comida.
+
+No me provoca comer mucho hoy, sólo algo pequeño.
+
+Hoy no quiero comer, pero comeré algo muy liviano.
+
+Poco apetito hoy, algo pequeño es suficiente.
+
+No tengo mucha hambre, comeré algo para no quedarme vacío.
+
+Hoy no quiero comer mucho, sólo algo ligero.
+
+Mi apetito está flojo hoy, pero comeré algo.
+
+Hoy no tengo ganas de comer, pero necesito algo rápido.
+
+Poco apetito, no quiero comer mucho, sólo algo rápido.
+
+Hoy no tengo hambre, pero un bocado estará bien.
+
+No tengo deseos de comer, pero algo ligero es necesario.
+
+Hoy no tengo mucha hambre, pero algo simple comeré.
+
+No me provoca comer mucho hoy, sólo algo muy ligero.
+
+Hoy no tengo ganas de comer mucho, algo pequeño está bien.
+
+Poco apetito, pero comeré algo para no quedarme vacío.
+
+Hoy no tengo ganas de comer, sólo algo pequeño.
+
+No me apetece comer mucho, sólo algo para mantenerme.
+
+Hoy mi apetito está bajo, pero comeré algo sencillo.
+
+No tengo mucha hambre, sólo quiero algo liviano.
+
+Hoy no tengo ganas de comer, pero algo rápido comeré.
+
+Poco apetito, sólo algo para pasar el rato.
+
+Hoy no tengo mucha hambre, pero algo ligero me basta.
+
+No me provoca comer mucho hoy, algo pequeño me basta.
+
+Hoy no tengo hambre, pero algo ligero me calmará.
+
+Poco apetito hoy, pero algo pequeño comeré.
+
+Hoy no tengo muchas ganas de comer, algo ligero será suficiente.
+
+No tengo ganas de comer mucho hoy, algo pequeño me basta.
+
+Hoy no me atrae comer, algo ligero está bien.
+
+Poco apetito hoy, algo ligero es suficiente.
+
+No tengo hambre, sólo algo pequeño para seguir.
+
+Hoy no tengo mucha hambre, algo sencillo está bien.
+
+Hoy no tengo ganas de comer, pero algo pequeño comeré.
+
+No me atrae comer mucho hoy, algo ligero me basta.
