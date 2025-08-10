@@ -1,0 +1,1 @@
+The final corpus is in .pkl format, the original uncleaned texts are in the 'text' folder, and the prompts used are in the main folder.

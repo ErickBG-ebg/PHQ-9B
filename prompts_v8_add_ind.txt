@@ -73,17 +73,3 @@ Generame 100 textos de personas con mucha lentitud, mucha tranquilidad o mucha c
 
 
 
-NOTAS:DEEPSEEK
-
-Se intentó seguir los mismos prompts que en chatgpt, sin embargo, parecia que para generar textos se necesitaba se muy extacto todo el tiempo.
-el modelo no podia mantener el hilo de las solicitudes mucho tiempo, es decir empezaba a divagar y era necesario volver a contextualizar
-El modelo generaba muchos textos en inglés pese a las solicitud de textos en español
-tambien tenia problemas al generar más de 50 textos por solicitud y a veces no genraba la cantidad solicitada, es muy complicado que el modelo sea "creativo generando textos de ejemplo"
-
-Respecto a buenos aspectos el modelo genero textos con uso de emojis, algho que chatgpt rara vez generaba, los textos que se generaron correctamenrte varian mucho a los generados a chatgpt, y ofrecen otra perspectiva en la generación de texto (combinando frases en español con secciones a inglés). 
-
-Otro aspecto curioso son las faltas de ortografia, lo que podria ser algo bueno o malo dependiendo de la tecnica que se vaya a utilizar para clasificar los textos.
-
-sin embargo por mucho el lado más negativo es que el modelo se confundia a veces y generaba peticiones que eran solicitadas, y generaba muchas oraciones repetidas en algunos indicadores, por lo que, en base a todos los detalles observados, deeepseek-r1:8b no es tan buena generando textos en español como chatgpt.
-
-
